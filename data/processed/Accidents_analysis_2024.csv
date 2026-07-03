@@ -1,0 +1,1203 @@
+﻿Codice_comune;Comune;Anno;Superficie_Kmq;Popolazione_residente;Morti_Feriti;Incidenti;Accidents_per_1k_residents;Accidents_per_kmsq;Severity;Cluster;Nome_Cluster
+1008;Alpignano;2024;11,9193;16494;24;20;1,21;1,68;1,2;1;Basso rischio / Intensità
+1013;Avigliana;2024;23,2173;12139;48;34;2,8;1,46;1,41;1;Basso rischio / Intensità
+1024;Beinasco;2024;6,7366;17351;40;33;1,9;4,9;1,21;1;Basso rischio / Intensità
+1028;Borgaro Torinese;2024;11,1093;11642;23;14;1,2;1,26;1,64;1;Basso rischio / Intensità
+1059;Carmagnola;2024;95,7163;28084;104;71;2,53;0,74;1,46;1;Basso rischio / Intensità
+1063;Caselle Torinese;2024;23,5512;13738;45;30;2,18;1,27;1,5;1;Basso rischio / Intensità
+1078;Chieri;2024;54,1967;35819;91;65;1,81;1,2;1,4;1;Basso rischio / Intensità
+1082;Chivasso;2024;51,2027;26058;103;67;2,57;1,31;1,54;1;Basso rischio / Intensità
+1086;Ciriè;2024;17,7329;18065;49;42;2,32;2,37;1,17;1;Basso rischio / Intensità
+1090;Collegno;2024;18,1075;47814;206;138;2,89;7,62;1,49;2;Medio rischio / Intensità
+1115;Giaveno;2024;71,7379;16295;20;15;0,92;0,21;1,33;1;Basso rischio / Intensità
+1120;Grugliasco;2024;13,1375;36505;76;61;1,67;4,64;1,25;1;Basso rischio / Intensità
+1125;Ivrea;2024;30,1076;22532;72;54;2,4;1,79;1,33;1;Basso rischio / Intensità
+1130;Leini;2024;31,9192;16232;49;35;2,16;1,1;1,4;1;Basso rischio / Intensità
+1156;Moncalieri;2024;47,5444;55439;250;175;3,16;3,68;1,43;2;Medio rischio / Intensità
+1164;Nichelino;2024;20,6222;45830;192;120;2,62;5,82;1,6;1;Basso rischio / Intensità
+1171;Orbassano;2024;22,2081;22811;98;72;3,16;3,24;1,36;2;Medio rischio / Intensità
+1189;Pianezza;2024;16,4634;15604;59;39;2,5;2,37;1,51;1;Basso rischio / Intensità
+1191;Pinerolo;2024;50,3375;35439;117;82;2,31;1,63;1,43;1;Basso rischio / Intensità
+1194;Piossasco;2024;40,1458;18051;38;29;1,61;0,72;1,31;1;Basso rischio / Intensità
+1197;Poirino;2024;75,619;10197;28;19;1,86;0,25;1,47;1;Basso rischio / Intensità
+1214;Rivalta di Torino;2024;25,1076;20057;83;54;2,69;2,15;1,54;1;Basso rischio / Intensità
+1217;Rivarolo Canavese;2024;32,246;12326;35;29;2,35;0,9;1,21;1;Basso rischio / Intensità
+1219;Rivoli;2024;29,5;46560;242;166;3,57;5,63;1,46;2;Medio rischio / Intensità
+1248;San Maurizio Canavese;2024;17,3443;10275;38;20;1,95;1,15;1,9;1;Basso rischio / Intensità
+1249;San Mauro Torinese;2024;12,5489;18411;32;24;1,3;1,91;1,33;1;Basso rischio / Intensità
+1257;Santena;2024;16,1984;10480;16;10;0,95;0,62;1,6;1;Basso rischio / Intensità
+1265;Settimo Torinese;2024;31,3902;45586;174;122;2,68;3,89;1,43;1;Basso rischio / Intensità
+1272;Torino;2024;129,9988;853196;4304;2968;3,48;22,83;1,45;0;Alto rischio / Intensità
+1280;Trofarello;2024;12,3476;10497;8;4;0,38;0,32;2,0;1;Basso rischio / Intensità
+1292;Venaria Reale;2024;20,4469;32035;102;71;2,22;3,47;1,44;1;Basso rischio / Intensità
+1309;Vinovo;2024;17,6327;15334;17;11;0,72;0,62;1,55;1;Basso rischio / Intensità
+1314;Volpiano;2024;32,4806;15011;43;29;1,93;0,89;1,48;1;Basso rischio / Intensità
+2016;Borgosesia;2024;41,0898;12031;38;28;2,33;0,68;1,36;1;Basso rischio / Intensità
+2158;Vercelli;2024;79,7747;45951;236;174;3,79;2,18;1,36;2;Medio rischio / Intensità
+3008;Arona;2024;15,1698;13655;45;33;2,42;2,18;1,36;1;Basso rischio / Intensità
+3024;Borgomanero;2024;32,2544;21208;76;57;2,69;1,77;1,33;1;Basso rischio / Intensità
+3032;Cameri;2024;39,9852;10811;27;20;1,85;0,5;1,35;1;Basso rischio / Intensità
+3068;Galliate;2024;29,3663;15700;43;38;2,42;1,29;1,13;1;Basso rischio / Intensità
+3106;Novara;2024;103,0499;102231;555;413;4,04;4,01;1,34;2;Medio rischio / Intensità
+3108;Oleggio;2024;37,7945;14241;42;33;2,32;0,87;1,27;1;Basso rischio / Intensità
+3149;Trecate;2024;38,2225;21084;78;52;2,47;1,36;1,5;1;Basso rischio / Intensità
+4003;Alba;2024;53,5852;30987;58;49;1,58;0,91;1,18;1;Basso rischio / Intensità
+4025;Borgo San Dalmazzo;2024;22,3398;12517;26;21;1,68;0,94;1,24;1;Basso rischio / Intensità
+4029;Bra;2024;59,5299;29673;103;81;2,73;1,36;1,27;1;Basso rischio / Intensità
+4034;Busca;2024;76,7645;10175;26;16;1,57;0,21;1,62;1;Basso rischio / Intensità
+4078;Cuneo;2024;119,669;55751;298;220;3,95;1,84;1,35;2;Medio rischio / Intensità
+4089;Fossano;2024;130,1431;24097;74;55;2,28;0,42;1,35;1;Basso rischio / Intensità
+4130;Mondovà¬;2024;87,0516;22114;69;44;1,99;0,51;1,57;1;Basso rischio / Intensità
+4203;Saluzzo;2024;79,9307;17560;62;46;2,62;0,58;1,35;1;Basso rischio / Intensità
+4215;Savigliano;2024;110,7878;21792;101;68;3,12;0,61;1,49;2;Medio rischio / Intensità
+5005;Asti;2024;151,3147;73440;404;302;4,11;2,0;1,34;2;Medio rischio / Intensità
+5080;Nizza Monferrato;2024;30,3635;10142;14;12;1,18;0,4;1,17;1;Basso rischio / Intensità
+6001;Acqui Terme;2024;33,2966;19005;48;40;2,1;1,2;1,2;1;Basso rischio / Intensità
+6003;Alessandria;2024;203,721;92522;537;420;4,54;2,06;1,28;2;Medio rischio / Intensità
+6039;Casale Monferrato;2024;86,2099;32428;132;95;2,93;1,1;1,39;1;Basso rischio / Intensità
+6114;Novi Ligure;2024;55,1949;27395;122;91;3,32;1,65;1,34;2;Medio rischio / Intensità
+6121;Ovada;2024;35,3721;10816;38;27;2,5;0,76;1,41;1;Basso rischio / Intensità
+6174;Tortona;2024;98,8665;26462;152;107;4,04;1,08;1,42;2;Medio rischio / Intensità
+6177;Valenza;2024;48,4945;18218;32;27;1,48;0,56;1,19;1;Basso rischio / Intensità
+7003;Aosta;2024;21,3922;33096;106;94;2,84;4,39;1,13;2;Medio rischio / Intensità
+8008;Bordighera;2024;10,6993;10218;41;38;3,72;3,55;1,08;2;Medio rischio / Intensità
+8031;Imperia;2024;45,4686;42580;291;229;5,38;5,04;1,27;2;Medio rischio / Intensità
+8055;Sanremo;2024;56,0067;53059;446;358;6,75;6,39;1,25;2;Medio rischio / Intensità
+8059;Taggia;2024;31,3633;13859;67;54;3,9;1,72;1,24;2;Medio rischio / Intensità
+8065;Ventimiglia;2024;53,8308;23024;169;123;5,34;2,28;1,37;2;Medio rischio / Intensità
+9002;Albenga;2024;36,5893;23539;220;172;7,31;4,7;1,28;2;Medio rischio / Intensità
+9015;Cairo Montenotte;2024;100,4025;12862;32;22;1,71;0,22;1,45;1;Basso rischio / Intensità
+9029;Finale Ligure;2024;35,5308;11012;113;83;7,54;2,34;1,36;2;Medio rischio / Intensità
+9034;Loano;2024;13,5303;10688;69;55;5,15;4,06;1,25;2;Medio rischio / Intensità
+9056;Savona;2024;65,374;58581;493;409;6,98;6,26;1,21;2;Medio rischio / Intensità
+9065;Varazze;2024;48,0095;12447;76;45;3,62;0,94;1,69;2;Medio rischio / Intensità
+10001;Arenzano;2024;24,305;11156;20;16;1,43;0,66;1,25;1;Basso rischio / Intensità
+10015;Chiavari;2024;12,2802;27452;201;165;6,01;13,44;1,22;0;Alto rischio / Intensità
+10025;Genova;2024;240,6542;564080;4607;3872;6,86;16,09;1,19;0;Alto rischio / Intensità
+10028;Lavagna;2024;13,8679;12367;135;102;8,25;7,36;1,32;0;Alto rischio / Intensità
+10046;Rapallo;2024;33,6304;29496;160;135;4,58;4,01;1,19;2;Medio rischio / Intensità
+10059;Sestri Levante;2024;33,6243;17240;117;92;5,34;2,74;1,27;2;Medio rischio / Intensità
+11002;Arcola;2024;16,5379;10175;24;17;1,67;1,03;1,41;1;Basso rischio / Intensità
+11015;La Spezia;2024;51,5856;92706;601;524;5,65;10,16;1,15;0;Alto rischio / Intensità
+11026;Santo Stefano di Magra;2024;13,8525;10034;37;27;2,69;1,95;1,37;1;Basso rischio / Intensità
+11027;Sarzana;2024;34,5435;21768;60;43;1,98;1,24;1,4;1;Basso rischio / Intensità
+12026;Busto Arsizio;2024;30,6597;84005;529;414;4,93;13,5;1,28;0;Alto rischio / Intensità
+12032;Cardano al Campo;2024;9,4198;14715;37;31;2,11;3,29;1,19;1;Basso rischio / Intensità
+12034;Caronno Pertusella;2024;8,5453;18475;51;43;2,33;5,03;1,19;1;Basso rischio / Intensità
+12040;Cassano Magnago;2024;12,3236;21326;88;66;3,09;5,36;1,33;2;Medio rischio / Intensità
+12042;Castellanza;2024;6,9206;13901;79;68;4,89;9,83;1,16;0;Alto rischio / Intensità
+12050;Cislago;2024;11,1335;10467;25;18;1,72;1,62;1,39;1;Basso rischio / Intensità
+12067;Fagnano Olona;2024;8,6812;12394;27;24;1,94;2,76;1,12;1;Basso rischio / Intensità
+12070;Gallarate;2024;20,9848;52902;354;281;5,31;13,39;1,26;0;Alto rischio / Intensità
+12075;Gerenzano;2024;9,7868;10933;25;18;1,65;1,84;1,39;1;Basso rischio / Intensità
+12083;Induno Olona;2024;12,3656;10421;22;16;1,54;1,29;1,38;1;Basso rischio / Intensità
+12090;Lonate Pozzolo;2024;29,2578;11330;55;40;3,53;1,37;1,38;2;Medio rischio / Intensità
+12092;Luino;2024;20,9338;14125;43;35;2,48;1,67;1,23;1;Basso rischio / Intensità
+12096;Malnate;2024;9,0011;16612;42;28;1,69;3,11;1,5;1;Basso rischio / Intensità
+12108;Olgiate Olona;2024;7,2066;12744;80;55;4,32;7,63;1,45;2;Medio rischio / Intensità
+12118;Samarate;2024;16,0203;16184;50;37;2,29;2,31;1,35;1;Basso rischio / Intensità
+12119;Saronno;2024;11,0575;38732;164;136;3,51;12,3;1,21;0;Alto rischio / Intensità
+12120;Sesto Calende;2024;25,0378;10957;44;32;2,92;1,28;1,38;1;Basso rischio / Intensità
+12123;Somma Lombardo;2024;30,505;17879;72;60;3,36;1,97;1,2;2;Medio rischio / Intensità
+12127;Tradate;2024;21,4984;19056;25;16;0,84;0,74;1,56;1;Basso rischio / Intensità
+12130;Uboldo;2024;10,7362;10964;30;21;1,92;1,96;1,43;1;Basso rischio / Intensità
+12133;Varese;2024;54,8393;78992;485;373;4,72;6,8;1,3;2;Medio rischio / Intensità
+13041;Cantà¹;2024;23,2534;40237;142;119;2,96;5,12;1,19;2;Medio rischio / Intensità
+13075;Como;2024;37,1193;83135;512;406;4,88;10,94;1,26;0;Alto rischio / Intensità
+13095;Erba;2024;17,8017;16264;64;43;2,64;2,42;1,49;1;Basso rischio / Intensità
+13102;Fino Mornasco;2024;7,2966;10054;39;31;3,08;4,25;1,26;2;Medio rischio / Intensità
+13133;Lomazzo;2024;9,477;10015;55;34;3,39;3,59;1,62;2;Medio rischio / Intensità
+13143;Mariano Comense;2024;13,8027;25430;79;66;2,6;4,78;1,2;1;Basso rischio / Intensità
+13165;Olgiate Comasco;2024;10,9517;12111;28;25;2,06;2,28;1,12;1;Basso rischio / Intensità
+14045;Morbegno;2024;14,8161;12358;31;22;1,78;1,48;1,41;1;Basso rischio / Intensità
+14061;Sondrio;2024;20,8693;21331;47;41;1,92;1,96;1,15;1;Basso rischio / Intensità
+15002;Abbiategrasso;2024;47,7777;32658;130;103;3,15;2,16;1,26;2;Medio rischio / Intensità
+15009;Arese;2024;6,5849;19505;56;45;2,31;6,83;1,24;1;Basso rischio / Intensità
+15010;Arluno;2024;12,3585;12564;53;31;2,47;2,51;1,71;1;Basso rischio / Intensità
+15012;Bareggio;2024;11,3841;17236;64;55;3,19;4,83;1,16;2;Medio rischio / Intensità
+15027;Bollate;2024;13,0991;36365;88;78;2,14;5,95;1,13;1;Basso rischio / Intensità
+15032;Bresso;2024;3,3825;26513;57;46;1,73;13,6;1,24;0;Alto rischio / Intensità
+15036;Buccinasco;2024;12,0057;26432;115;82;3,1;6,83;1,4;2;Medio rischio / Intensità
+15041;Busto Garolfo;2024;12,9872;14049;39;26;1,85;2,0;1,5;1;Basso rischio / Intensità
+15046;Canegrate;2024;5,2538;12714;25;17;1,34;3,24;1,47;1;Basso rischio / Intensità
+15051;Carugate;2024;5,3712;15691;23;20;1,27;3,72;1,15;1;Basso rischio / Intensità
+15059;Cassano d'Adda;2024;18,5697;19683;66;55;2,79;2,96;1,2;1;Basso rischio / Intensità
+15060;Cassina de' Pecchi;2024;7,1469;13895;23;17;1,22;2,38;1,35;1;Basso rischio / Intensità
+15062;Castano Primo;2024;19,1728;10882;34;20;1,84;1,04;1,7;1;Basso rischio / Intensità
+15070;Cernusco sul Naviglio;2024;13,3101;34786;110;78;2,24;5,86;1,41;1;Basso rischio / Intensità
+15072;Cerro Maggiore;2024;10,1211;15019;68;56;3,73;5,53;1,21;2;Medio rischio / Intensità
+15074;Cesano Boscone;2024;3,9495;23262;65;50;2,15;12,66;1,3;0;Alto rischio / Intensità
+15076;Cesate;2024;5,7681;14308;23;16;1,12;2,77;1,44;1;Basso rischio / Intensità
+15077;Cinisello Balsamo;2024;12,724;74702;465;348;4,66;27,35;1,34;0;Alto rischio / Intensità
+15081;Cologno Monzese;2024;8,4029;46994;171;146;3,11;17,37;1,17;0;Alto rischio / Intensità
+15085;Corbetta;2024;18,6867;19111;59;45;2,35;2,41;1,31;1;Basso rischio / Intensità
+15086;Cormano;2024;4,4733;20744;176;126;6,07;28,17;1,4;0;Alto rischio / Intensità
+15087;Cornaredo;2024;11,0674;20708;22;13;0,63;1,17;1,69;1;Basso rischio / Intensità
+15093;Corsico;2024;5,366;34694;155;114;3,29;21,24;1,36;0;Alto rischio / Intensità
+15098;Cusano Milanino;2024;3,0817;19016;63;50;2,63;16,22;1,26;0;Alto rischio / Intensità
+15105;Garbagnate Milanese;2024;8,9162;26870;98;75;2,79;8,41;1,31;0;Alto rischio / Intensità
+15108;Gorgonzola;2024;10,5799;21306;77;53;2,49;5,01;1,45;1;Basso rischio / Intensità
+15114;Inzago;2024;12,1607;11384;39;28;2,46;2,3;1,39;1;Basso rischio / Intensità
+15116;Lainate;2024;12,871;26356;134;97;3,68;7,54;1,38;2;Medio rischio / Intensità
+15118;Legnano;2024;17,6972;60679;376;295;4,86;16,67;1,27;0;Alto rischio / Intensità
+15125;Locate di Triulzi;2024;12,6104;10316;30;21;2,04;1,67;1,43;1;Basso rischio / Intensità
+15130;Magenta;2024;21,9919;24752;94;75;3,03;3,41;1,25;2;Medio rischio / Intensità
+15139;Mediglia;2024;21,9542;12312;35;26;2,11;1,18;1,35;1;Basso rischio / Intensità
+15140;Melegnano;2024;4,9986;18138;74;68;3,75;13,6;1,09;0;Alto rischio / Intensità
+15142;Melzo;2024;9,8205;18330;52;38;2,07;3,87;1,37;1;Basso rischio / Intensità
+15146;Milano;2024;181,845;1365698;9623;7743;5,67;42,58;1,24;0;Alto rischio / Intensità
+15154;Nerviano;2024;13,243;16989;44;32;1,88;2,42;1,38;1;Basso rischio / Intensità
+15157;Novate Milanese;2024;5,4619;20296;90;69;3,4;12,63;1,3;0;Alto rischio / Intensità
+15159;Opera;2024;7,6168;14396;48;38;2,64;4,99;1,26;1;Basso rischio / Intensità
+15166;Paderno Dugnano;2024;14,1139;47594;173;142;2,98;10,06;1,22;0;Alto rischio / Intensità
+15168;Parabiago;2024;14,3077;28207;109;88;3,12;6,15;1,24;2;Medio rischio / Intensità
+15169;Paullo;2024;8,8211;11153;28;18;1,61;2,04;1,56;1;Basso rischio / Intensità
+15170;Pero;2024;5,0025;11816;84;57;4,82;11,39;1,47;0;Alto rischio / Intensità
+15171;Peschiera Borromeo;2024;23,2213;24300;55;42;1,73;1,81;1,31;1;Basso rischio / Intensità
+15173;Pieve Emanuele;2024;12,9138;15739;55;41;2,6;3,17;1,34;1;Basso rischio / Intensità
+15175;Pioltello;2024;13,0918;37184;81;68;1,83;5,19;1,19;1;Basso rischio / Intensità
+15181;Rescaldina;2024;8,0299;14321;38;28;1,96;3,49;1,36;1;Basso rischio / Intensità
+15182;Rho;2024;22,241;50879;288;208;4,09;9,35;1,38;0;Alto rischio / Intensità
+15189;Rozzano;2024;12,2435;41559;179;151;3,63;12,33;1,19;0;Alto rischio / Intensità
+15192;San Donato Milanese;2024;12,8132;32161;146;110;3,42;8,58;1,33;0;Alto rischio / Intensità
+15195;San Giuliano Milanese;2024;30,9043;39910;211;155;3,88;5,02;1,36;2;Medio rischio / Intensità
+15204;Sedriano;2024;7,7527;12998;20;18;1,38;2,32;1,11;1;Basso rischio / Intensità
+15205;Segrate;2024;17,3217;37078;125;98;2,64;5,66;1,28;2;Medio rischio / Intensità
+15206;Senago;2024;8,5991;21566;60;46;2,13;5,35;1,3;1;Basso rischio / Intensità
+15209;Sesto San Giovanni;2024;11,6989;78792;230;165;2,09;14,1;1,39;0;Alto rischio / Intensità
+15211;Settimo Milanese;2024;10,7192;19922;39;30;1,51;2,8;1,3;1;Basso rischio / Intensità
+15213;Solaro;2024;6,676;14110;44;29;2,06;4,34;1,52;1;Basso rischio / Intensità
+15220;Trezzano sul Naviglio;2024;10,7661;21738;37;22;1,01;2,04;1,68;1;Basso rischio / Intensità
+15221;Trezzo sull'Adda;2024;13,0531;12220;38;28;2,29;2,15;1,36;1;Basso rischio / Intensità
+15242;Vimodrone;2024;4,742;16938;37;30;1,77;6,33;1,23;1;Basso rischio / Intensità
+15250;Baranzate;2024;2,7721;11970;37;24;2,01;8,66;1,54;1;Basso rischio / Intensità
+16004;Albino;2024;31,8066;17567;66;50;2,85;1,57;1,32;1;Basso rischio / Intensità
+16008;Alzano Lombardo;2024;13,6844;13439;25;22;1,64;1,61;1,14;1;Basso rischio / Intensità
+16024;Bergamo;2024;40,243;120389;1084;893;7,42;22,19;1,21;0;Alto rischio / Intensità
+16030;Bonate Sopra;2024;6,151;10583;29;21;1,98;3,41;1,38;1;Basso rischio / Intensità
+16053;Caravaggio;2024;33,3882;16443;79;56;3,41;1,68;1,41;2;Medio rischio / Intensità
+16062;Castelli Calepio;2024;10,1527;10427;37;25;2,4;2,46;1,48;1;Basso rischio / Intensità
+16079;Cologno al Serio;2024;18,5186;11174;25;17;1,52;0,92;1,47;1;Basso rischio / Intensità
+16091;Dalmine;2024;11,8076;23742;109;84;3,54;7,11;1,3;2;Medio rischio / Intensità
+16133;Martinengo;2024;22,0512;11025;24;17;1,54;0,77;1,41;1;Basso rischio / Intensità
+16144;Nembro;2024;15,2349;11313;51;32;2,83;2,1;1,59;1;Basso rischio / Intensità
+16153;Osio Sotto;2024;7,5856;12799;45;40;3,13;5,27;1,12;2;Medio rischio / Intensità
+16170;Ponte San Pietro;2024;4,5806;11906;25;21;1,76;4,58;1,19;1;Basso rischio / Intensità
+16183;Romano di Lombardia;2024;19,3832;20929;54;39;1,86;2,01;1,38;1;Basso rischio / Intensità
+16194;Scanzorosciate;2024;10,6892;10053;12;10;0,99;0,94;1,2;1;Basso rischio / Intensità
+16198;Seriate;2024;12,5534;25595;107;87;3,4;6,93;1,23;2;Medio rischio / Intensità
+16207;Stezzano;2024;9,3738;13748;52;38;2,76;4,05;1,37;2;Medio rischio / Intensità
+16219;Treviglio;2024;32,2199;31417;205;152;4,84;4,72;1,35;2;Medio rischio / Intensità
+16220;Treviolo;2024;8,4155;10870;34;25;2,3;2,97;1,36;1;Basso rischio / Intensità
+16222;Urgnano;2024;14,7781;10163;29;21;2,07;1,42;1,38;1;Basso rischio / Intensità
+17009;Bagnolo Mella;2024;31,3456;12471;32;19;1,52;0,61;1,68;1;Basso rischio / Intensità
+17014;Bedizzole;2024;26,4435;12172;34;24;1,97;0,91;1,42;1;Basso rischio / Intensità
+17023;Botticino;2024;18,4824;10772;8;8;0,74;0,43;1,0;1;Basso rischio / Intensità
+17029;Brescia;2024;90,3504;199853;1063;860;4,3;9,52;1,24;0;Alto rischio / Intensità
+17032;Calcinato;2024;33,2958;13028;67;44;3,38;1,32;1,52;2;Medio rischio / Intensità
+17039;Carpenedolo;2024;29,8419;12968;43;26;2,0;0,87;1,65;1;Basso rischio / Intensità
+17042;Castel Mella;2024;7,5282;10953;14;11;1,0;1,46;1,27;1;Basso rischio / Intensità
+17043;Castenedolo;2024;26,195;11687;79;49;4,19;1,87;1,61;2;Medio rischio / Intensità
+17046;Cazzago San Martino;2024;22,3414;10787;29;21;1,95;0,94;1,38;1;Basso rischio / Intensità
+17052;Chiari;2024;37,9591;19552;50;36;1,84;0,95;1,39;1;Basso rischio / Intensità
+17061;Concesio;2024;19,0745;15670;28;22;1,4;1,15;1,27;1;Basso rischio / Intensità
+17065;Darfo Boario Terme;2024;36,0712;15877;51;29;1,83;0,8;1,76;1;Basso rischio / Intensità
+17067;Desenzano del Garda;2024;59,2622;29313;156;121;4,13;2,04;1,29;2;Medio rischio / Intensità
+17075;Gardone Val Trompia;2024;26,6562;11467;31;22;1,92;0,83;1,41;1;Basso rischio / Intensità
+17077;Gavardo;2024;29,7959;12316;10;8;0,65;0,27;1,25;1;Basso rischio / Intensità
+17078;Ghedi;2024;60,84;18504;38;31;1,68;0,51;1,23;1;Basso rischio / Intensità
+17081;Gussago;2024;25,089;16692;11;10;0,6;0,4;1,1;1;Basso rischio / Intensità
+17088;Leno;2024;58,4516;14410;38;27;1,87;0,46;1,41;1;Basso rischio / Intensità
+17092;Lonato del Garda;2024;68,1952;17062;111;69;4,04;1,01;1,61;2;Medio rischio / Intensità
+17096;Lumezzane;2024;31,7179;21637;24;17;0,79;0,54;1,41;1;Basso rischio / Intensità
+17103;Manerbio;2024;27,8838;13501;107;58;4,3;2,08;1,84;2;Medio rischio / Intensità
+17107;Mazzano;2024;15,7266;12707;28;21;1,65;1,34;1,33;1;Basso rischio / Intensità
+17113;Montichiari;2024;81,6612;26271;109;85;3,24;1,04;1,28;2;Medio rischio / Intensità
+17117;Nave;2024;27,2115;10567;18;13;1,23;0,48;1,38;1;Basso rischio / Intensità
+17125;Orzinuovi;2024;47,8683;12449;26;23;1,85;0,48;1,13;1;Basso rischio / Intensità
+17127;Ospitaletto;2024;9,2899;14855;23;19;1,28;2,05;1,21;1;Basso rischio / Intensità
+17133;Palazzolo sull'Oglio;2024;23,0394;20403;71;50;2,45;2,17;1,42;1;Basso rischio / Intensità
+17161;Rezzato;2024;18,2064;13540;142;102;7,53;5,6;1,39;2;Medio rischio / Intensità
+17166;Rovato;2024;26,0941;19649;70;51;2,6;1,95;1,37;1;Basso rischio / Intensità
+17170;Salà²;2024;27,3048;10326;56;38;3,68;1,39;1,47;2;Medio rischio / Intensità
+17174;Sarezzo;2024;17,6791;13219;36;32;2,42;1,81;1,12;1;Basso rischio / Intensità
+17188;Travagliato;2024;17,736;13944;29;24;1,72;1,35;1,21;1;Basso rischio / Intensità
+17199;Villa Carcina;2024;14,2195;10728;18;12;1,12;0,84;1,5;1;Basso rischio / Intensità
+18102;Mortara;2024;51,9695;15603;34;23;1,47;0,44;1,48;1;Basso rischio / Intensità
+18110;Pavia;2024;63,2096;71610;403;318;4,44;5,03;1,27;2;Medio rischio / Intensità
+18153;Stradella;2024;18,835;11608;49;30;2,58;1,59;1,63;1;Basso rischio / Intensità
+18177;Vigevano;2024;81,3639;62771;246;202;3,22;2,48;1,22;2;Medio rischio / Intensità
+18182;Voghera;2024;63,4413;39515;188;138;3,49;2,18;1,36;2;Medio rischio / Intensità
+19021;Casalmaggiore;2024;64,5302;15095;77;51;3,38;0,79;1,51;2;Medio rischio / Intensità
+19035;Crema;2024;34,51;34012;143;115;3,38;3,33;1,24;2;Medio rischio / Intensità
+19036;Cremona;2024;70,4899;70922;379;310;4,37;4,4;1,22;2;Medio rischio / Intensità
+20015;Castel Goffredo;2024;42,4042;12742;17;11;0,86;0,26;1,55;1;Basso rischio / Intensità
+20017;Castiglione delle Stiviere;2024;42,0226;23864;106;70;2,93;1,67;1,51;2;Medio rischio / Intensità
+20021;Curtatone;2024;67,4705;14739;54;40;2,71;0,59;1,35;1;Basso rischio / Intensità
+20026;Goito;2024;78,8766;10102;21;15;1,48;0,19;1,4;1;Basso rischio / Intensità
+20030;Mantova;2024;63,8077;49607;329;267;5,38;4,18;1,23;2;Medio rischio / Intensità
+20045;Porto Mantovano;2024;37,4412;16691;40;30;1,8;0,8;1,33;1;Basso rischio / Intensità
+20057;San Giorgio Bigarello;2024;51,5351;11891;60;44;3,7;0,85;1,36;2;Medio rischio / Intensità
+20065;Suzzara;2024;61,0989;21195;76;52;2,45;0,85;1,46;1;Basso rischio / Intensità
+20066;Viadana;2024;103,8407;19739;77;64;3,24;0,62;1,2;2;Medio rischio / Intensità
+20071;Borgo Virgilio;2024;69,9869;15137;55;41;2,71;0,59;1,34;1;Basso rischio / Intensità
+21004;Appiano sulla strada del vino/Eppan an der Weinstraàe;2024;59,4501;14963;95;62;4,14;1,04;1,53;2;Medio rischio / Intensità
+21008;Bolzano/Bozen;2024;52,2909;106568;849;660;6,19;12,62;1,29;0;Alto rischio / Intensità
+21011;Bressanone/Brixen;2024;84,6986;23108;52;41;1,77;0,48;1,27;1;Basso rischio / Intensità
+21013;Brunico/Bruneck;2024;44,9974;17157;55;44;2,56;0,98;1,25;1;Basso rischio / Intensità
+21040;Laives/Leifers;2024;24,1083;18658;52;41;2,2;1,7;1,27;1;Basso rischio / Intensità
+21041;Lana/Lana;2024;36,1238;12680;43;29;2,29;0,8;1,48;1;Basso rischio / Intensità
+21051;Merano/Meran;2024;26,3397;41498;159;141;3,4;5,35;1,13;2;Medio rischio / Intensità
+22006;Arco;2024;63,2175;17653;76;68;3,85;1,08;1,12;2;Medio rischio / Intensità
+22123;Mori;2024;34,4832;10268;30;19;1,85;0,55;1,58;1;Basso rischio / Intensità
+22139;Pergine Valsugana;2024;54,3035;21577;56;53;2,46;0,98;1,06;1;Basso rischio / Intensità
+22153;Riva del Garda;2024;40,7247;17782;62;54;3,04;1,33;1,15;2;Medio rischio / Intensità
+22161;Rovereto;2024;50,9842;40263;118;97;2,41;1,9;1,22;1;Basso rischio / Intensità
+22205;Trento;2024;157,8398;118640;447;350;2,95;2,22;1,28;2;Medio rischio / Intensità
+23012;Bovolone;2024;41,2728;16265;56;43;2,64;1,04;1,3;1;Basso rischio / Intensità
+23015;Bussolengo;2024;24,2257;20943;68;54;2,58;2,23;1,26;1;Basso rischio / Intensità
+23021;Castel d'Azzano;2024;9,7317;12234;29;21;1,72;2,16;1,38;1;Basso rischio / Intensità
+23022;Castelnuovo del Garda;2024;34,4299;13252;65;41;3,09;1,19;1,59;2;Medio rischio / Intensità
+23025;Cerea;2024;70,2946;17084;59;49;2,87;0,7;1,2;1;Basso rischio / Intensità
+23038;Grezzana;2024;49,4895;10792;4;4;0,37;0,08;1,0;1;Basso rischio / Intensità
+23040;Isola della Scala;2024;69,8295;11806;45;34;2,88;0,49;1,32;1;Basso rischio / Intensità
+23044;Legnago;2024;79,2725;25881;134;94;3,63;1,19;1,43;2;Medio rischio / Intensità
+23052;Negrar di Valpolicella;2024;40,4501;16467;32;28;1,7;0,69;1,14;1;Basso rischio / Intensità
+23055;Oppeano;2024;46,7256;10376;62;37;3,57;0,79;1,68;2;Medio rischio / Intensità
+23058;Pescantina;2024;19,7213;17547;38;26;1,48;1,32;1,46;1;Basso rischio / Intensità
+23059;Peschiera del Garda;2024;18,2598;10899;101;61;5,6;3,34;1,66;2;Medio rischio / Intensità
+23069;San Bonifacio;2024;33,792;21309;89;63;2,96;1,86;1,41;2;Medio rischio / Intensità
+23071;San Giovanni Lupatoto;2024;19,0111;25470;58;50;1,96;2,63;1,16;1;Basso rischio / Intensità
+23073;San Martino Buon Albergo;2024;34,7085;16590;76;51;3,07;1,47;1,49;2;Medio rischio / Intensità
+23076;San Pietro in Cariano;2024;20,231;12940;48;33;2,55;1,63;1,45;1;Basso rischio / Intensità
+23077;Sant'Ambrogio di Valpolicella;2024;23,4999;11880;22;19;1,6;0,81;1,16;1;Basso rischio / Intensità
+23082;Sommacampagna;2024;40,8235;14510;78;55;3,79;1,35;1,42;2;Medio rischio / Intensità
+23083;Sona;2024;41,1199;17583;44;31;1,76;0,75;1,42;1;Basso rischio / Intensità
+23089;Valeggio sul Mincio;2024;63,9591;16059;51;35;2,18;0,55;1,46;1;Basso rischio / Intensità
+23091;Verona;2024;198,8971;255039;1528;1230;4,82;6,18;1,24;2;Medio rischio / Intensità
+23094;Vigasio;2024;30,7626;10346;18;13;1,26;0,42;1,38;1;Basso rischio / Intensità
+23096;Villafranca di Verona;2024;57,3351;32836;141;101;3,08;1,76;1,4;2;Medio rischio / Intensità
+23097;Zevio;2024;54,8718;15809;50;42;2,66;0,77;1,19;1;Basso rischio / Intensità
+24004;Altavilla Vicentina;2024;16,7237;11776;55;36;3,06;2,15;1,53;2;Medio rischio / Intensità
+24008;Arzignano;2024;34,1902;25734;89;68;2,64;1,99;1,31;1;Basso rischio / Intensità
+24012;Bassano del Grappa;2024;47,0587;42299;175;148;3,5;3,15;1,18;2;Medio rischio / Intensità
+24018;Caldogno;2024;15,8631;11353;21;17;1,5;1,07;1,24;1;Basso rischio / Intensità
+24021;Camisano Vicentino;2024;30,0208;11119;17;14;1,26;0,47;1,21;1;Basso rischio / Intensità
+24026;Cassola;2024;12,723;15342;45;38;2,48;2,99;1,18;1;Basso rischio / Intensità
+24029;Chiampo;2024;22,6041;12567;35;26;2,07;1,15;1,35;1;Basso rischio / Intensità
+24034;Cornedo Vicentino;2024;23,5599;11698;44;26;2,22;1,1;1,69;1;Basso rischio / Intensità
+24036;Creazzo;2024;10,5283;11160;15;14;1,25;1,33;1,07;1;Basso rischio / Intensità
+24038;Dueville;2024;20,0176;13563;39;23;1,7;1,15;1,7;1;Basso rischio / Intensità
+24048;Isola Vicentina;2024;26,479;10343;20;14;1,35;0,53;1,43;1;Basso rischio / Intensità
+24052;Lonigo;2024;49,4233;15998;40;29;1,81;0,59;1,38;1;Basso rischio / Intensità
+24055;Malo;2024;30,5281;14701;26;21;1,43;0,69;1,24;1;Basso rischio / Intensità
+24057;Marostica;2024;36,5245;14052;51;38;2,7;1,04;1,34;1;Basso rischio / Intensità
+24061;Montecchio Maggiore;2024;30,5401;23799;98;72;3,03;2,36;1,36;2;Medio rischio / Intensità
+24086;Romano d'Ezzelino;2024;21,3597;14077;17;13;0,92;0,61;1,31;1;Basso rischio / Intensità
+24087;Rosà ;2024;24,3246;14599;70;56;3,84;2,3;1,25;2;Medio rischio / Intensità
+24100;Schio;2024;66,2059;38875;132;104;2,68;1,57;1,27;1;Basso rischio / Intensità
+24104;Tezze sul Brenta;2024;17,9505;13069;35;25;1,91;1,39;1,4;1;Basso rischio / Intensità
+24105;Thiene;2024;19,7034;24009;111;84;3,5;4,26;1,32;2;Medio rischio / Intensità
+24108;Torri di Quartesolo;2024;18,6733;11799;28;21;1,78;1,12;1,33;1;Basso rischio / Intensità
+24111;Valdagno;2024;50,2157;25835;42;35;1,35;0,7;1,2;1;Basso rischio / Intensità
+24116;Vicenza;2024;80,5165;110468;544;441;3,99;5,48;1,23;2;Medio rischio / Intensità
+25006;Belluno;2024;147,2211;35543;158;112;3,15;0,76;1,41;2;Medio rischio / Intensità
+25021;Feltre;2024;99,7877;20631;84;62;3,01;0,62;1,35;2;Medio rischio / Intensità
+25053;Sedico;2024;91,2029;10129;38;24;2,37;0,26;1,58;1;Basso rischio / Intensità
+25074;Borgo Valbelluna;2024;167,6917;13580;27;22;1,62;0,13;1,23;1;Basso rischio / Intensità
+26008;Carbonera;2024;19,8602;11254;48;25;2,22;1,26;1,92;1;Basso rischio / Intensità
+26009;Casale sul Sile;2024;26,9182;13074;37;27;2,07;1,0;1,37;1;Basso rischio / Intensità
+26010;Casier;2024;13,4065;11410;15;13;1,14;0,97;1,15;1;Basso rischio / Intensità
+26012;Castelfranco Veneto;2024;51,609;33205;98;81;2,44;1,57;1,21;1;Basso rischio / Intensità
+26021;Conegliano;2024;36,3933;34578;140;105;3,04;2,89;1,33;2;Medio rischio / Intensità
+26043;Mogliano Veneto;2024;46,2565;28017;102;70;2,5;1,51;1,46;1;Basso rischio / Intensità
+26046;Montebelluna;2024;48,9883;31142;124;96;3,08;1,96;1,29;2;Medio rischio / Intensità
+26049;Motta di Livenza;2024;37,7773;10577;11;9;0,85;0,24;1,22;1;Basso rischio / Intensità
+26051;Oderzo;2024;42,3532;20244;57;46;2,27;1,09;1,24;1;Basso rischio / Intensità
+26055;Paese;2024;38,0826;22174;53;41;1,85;1,08;1,29;1;Basso rischio / Intensità
+26057;Pieve di Soligo;2024;19,0375;11500;23;19;1,65;1,0;1,21;1;Basso rischio / Intensità
+26059;Ponzano Veneto;2024;22,2843;13017;26;20;1,54;0,9;1,3;1;Basso rischio / Intensità
+26063;Preganziol;2024;23,0246;16759;58;45;2,69;1,95;1,29;1;Basso rischio / Intensità
+26064;Quinto di Treviso;2024;19,0993;10046;33;20;1,99;1,05;1,65;1;Basso rischio / Intensità
+26068;Riese Pio X;2024;30,6437;10956;34;29;2,65;0,95;1,17;1;Basso rischio / Intensità
+26069;Roncade;2024;61,7761;14611;37;29;1,98;0,47;1,28;1;Basso rischio / Intensità
+26071;San Biagio di Callalta;2024;48,5044;12641;48;36;2,85;0,74;1,33;1;Basso rischio / Intensità
+26081;Silea;2024;18,9333;10542;45;33;3,13;1,74;1,36;2;Medio rischio / Intensità
+26082;Spresiano;2024;25,6847;12399;37;23;1,85;0,9;1,61;1;Basso rischio / Intensità
+26083;Susegana;2024;44,0817;11719;68;51;4,35;1,16;1,33;2;Medio rischio / Intensità
+26085;Trevignano;2024;26,4946;10696;21;13;1,22;0,49;1,62;1;Basso rischio / Intensità
+26086;Treviso;2024;55,5281;85652;421;355;4,14;6,39;1,19;2;Medio rischio / Intensità
+26089;Vedelago;2024;61,8489;16554;44;29;1,75;0,47;1,52;1;Basso rischio / Intensità
+26091;Villorba;2024;30,6239;17526;76;58;3,31;1,89;1,31;2;Medio rischio / Intensità
+26092;Vittorio Veneto;2024;82,8021;27259;119;89;3,26;1,07;1,34;2;Medio rischio / Intensità
+26093;Volpago del Montello;2024;44,822;10020;31;25;2,5;0,56;1,24;1;Basso rischio / Intensità
+26095;Zero Branco;2024;26,0604;11672;25;19;1,63;0,73;1,32;1;Basso rischio / Intensità
+27003;Campolongo Maggiore;2024;23,6148;10708;16;12;1,12;0,51;1,33;1;Basso rischio / Intensità
+27004;Camponogara;2024;21,2991;12959;34;26;2,01;1,22;1,31;1;Basso rischio / Intensità
+27005;Caorle;2024;154,7905;11038;39;27;2,45;0,17;1,44;1;Basso rischio / Intensità
+27006;Cavarzere;2024;140,4374;12773;57;43;3,37;0,31;1,33;2;Medio rischio / Intensità
+27008;Chioggia;2024;188,4467;47265;331;239;5,06;1,27;1,38;2;Medio rischio / Intensità
+27011;Concordia Sagittaria;2024;66,8348;10251;11;9;0,88;0,13;1,22;1;Basso rischio / Intensità
+27012;Dolo;2024;24,2839;14985;51;36;2,4;1,48;1,42;1;Basso rischio / Intensità
+27013;Eraclea;2024;95,3753;11901;62;34;2,86;0,36;1,82;1;Basso rischio / Intensità
+27019;Jesolo;2024;96,9423;26994;245;176;6,52;1,82;1,39;2;Medio rischio / Intensità
+27020;Marcon;2024;25,5477;17708;32;28;1,58;1,1;1,14;1;Basso rischio / Intensità
+27021;Martellago;2024;20,1697;21242;38;30;1,41;1,49;1,27;1;Basso rischio / Intensità
+27023;Mira;2024;99,1083;37596;142;89;2,37;0,9;1,6;1;Basso rischio / Intensità
+27024;Mirano;2024;45,6766;27011;96;72;2,67;1,58;1,33;1;Basso rischio / Intensità
+27025;Musile di Piave;2024;44,9537;11454;57;32;2,79;0,71;1,78;1;Basso rischio / Intensità
+27026;Noale;2024;24,6976;16216;31;23;1,42;0,93;1,35;1;Basso rischio / Intensità
+27028;Pianiga;2024;20,0735;12251;52;30;2,45;1,49;1,73;1;Basso rischio / Intensità
+27029;Portogruaro;2024;102,311;24381;159;97;3,98;0,95;1,64;2;Medio rischio / Intensità
+27032;Salzano;2024;17,1835;12770;27;18;1,41;1,05;1,5;1;Basso rischio / Intensità
+27033;San Donà  di Piave;2024;78,9025;41902;212;146;3,48;1,85;1,45;2;Medio rischio / Intensità
+27034;San Michele al Tagliamento;2024;115,005;11423;92;69;6,04;0,6;1,33;2;Medio rischio / Intensità
+27035;Santa Maria di Sala;2024;27,9683;17473;54;35;2,0;1,25;1,54;1;Basso rischio / Intensità
+27036;San Stino di Livenza;2024;67,9667;12764;37;29;2,27;0,43;1,28;1;Basso rischio / Intensità
+27037;Scorzè;2024;33,2873;19010;55;36;1,89;1,08;1,53;1;Basso rischio / Intensità
+27038;Spinea;2024;14,9761;27724;81;51;1,84;3,41;1,59;1;Basso rischio / Intensità
+27042;Venezia;2024;418,3949;249490;846;669;2,68;1,6;1,26;1;Basso rischio / Intensità
+27044;Cavallino-Treporti;2024;45,1263;13186;62;45;3,41;1,0;1,38;2;Medio rischio / Intensità
+28001;Abano Terme;2024;21,4081;20464;55;47;2,3;2,2;1,17;1;Basso rischio / Intensità
+28003;Albignasego;2024;21,1552;27350;54;44;1,61;2,08;1,23;1;Basso rischio / Intensità
+28016;Cadoneghe;2024;12,925;15783;38;31;1,96;2,4;1,23;1;Basso rischio / Intensità
+28017;Campodarsego;2024;25,7182;15123;68;48;3,17;1,87;1,42;2;Medio rischio / Intensità
+28019;Camposampiero;2024;21,1246;11829;45;30;2,54;1,42;1,5;1;Basso rischio / Intensità
+28032;Cittadella;2024;36,6612;20022;70;53;2,65;1,45;1,32;1;Basso rischio / Intensità
+28037;Este;2024;32,8074;15888;47;37;2,33;1,13;1,27;1;Basso rischio / Intensità
+28054;Mestrino;2024;19,218;11856;33;25;2,11;1,3;1,32;1;Basso rischio / Intensità
+28055;Monselice;2024;50,5709;17075;81;58;3,4;1,15;1,4;2;Medio rischio / Intensità
+28057;Montegrotto Terme;2024;15,3701;11543;33;29;2,51;1,89;1,14;1;Basso rischio / Intensità
+28058;Noventa Padovana;2024;7,0779;11323;43;36;3,18;5,09;1,19;2;Medio rischio / Intensità
+28060;Padova;2024;93,0257;207412;1312;1028;4,96;11,05;1,28;0;Alto rischio / Intensità
+28063;Piazzola sul Brenta;2024;40,9329;11074;40;28;2,53;0,68;1,43;1;Basso rischio / Intensità
+28065;Piove di Sacco;2024;35,725;20236;78;62;3,06;1,74;1,26;2;Medio rischio / Intensità
+28069;Ponte San Nicolà²;2024;13,521;13133;43;32;2,44;2,37;1,34;1;Basso rischio / Intensità
+28072;Rubano;2024;14,5126;17038;77;58;3,4;4,0;1,33;2;Medio rischio / Intensità
+28075;San Giorgio delle Pertiche;2024;18,858;10093;31;19;1,88;1,01;1,63;1;Basso rischio / Intensità
+28077;San Martino di Lupari;2024;24,1222;13218;19;18;1,36;0,75;1,06;1;Basso rischio / Intensità
+28085;Saonara;2024;13,5443;10643;21;16;1,5;1,18;1,31;1;Basso rischio / Intensità
+28086;Selvazzano Dentro;2024;19,5169;22932;59;46;2,01;2,36;1,28;1;Basso rischio / Intensità
+28093;Trebaseleghe;2024;30,6561;12984;40;26;2,0;0,85;1,54;1;Basso rischio / Intensità
+28099;Vigodarzere;2024;19,916;13211;35;29;2,2;1,46;1,21;1;Basso rischio / Intensità
+28100;Vigonza;2024;33,3229;23258;118;80;3,44;2,4;1,48;2;Medio rischio / Intensità
+28103;Villafranca Padovana;2024;23,9549;10598;30;18;1,7;0,75;1,67;1;Basso rischio / Intensità
+29001;Adria;2024;113,3885;18787;69;44;2,34;0,39;1,57;1;Basso rischio / Intensità
+29004;Badia Polesine;2024;44,5342;10253;34;21;2,05;0,47;1,62;1;Basso rischio / Intensità
+29029;Lendinara;2024;55,0548;11428;26;20;1,75;0,36;1,3;1;Basso rischio / Intensità
+29033;Occhiobello;2024;32,3261;12052;58;45;3,73;1,39;1,29;2;Medio rischio / Intensità
+29041;Rovigo;2024;108,7778;49922;247;166;3,33;1,53;1,49;2;Medio rischio / Intensità
+29052;Porto Viro;2024;134,1786;13739;49;27;1,97;0,2;1,81;1;Basso rischio / Intensità
+30023;Cervignano del Friuli;2024;29,1667;13784;32;23;1,67;0,79;1,39;1;Basso rischio / Intensità
+30026;Cividale del Friuli;2024;50,6356;10755;16;12;1,12;0,24;1,33;1;Basso rischio / Intensità
+30027;Codroipo;2024;75,2019;15802;44;30;1,9;0,4;1,47;1;Basso rischio / Intensità
+30043;Gemona del Friuli;2024;56,0573;10439;27;22;2,11;0,39;1,23;1;Basso rischio / Intensità
+30046;Latisana;2024;37,7996;13219;54;40;3,03;1,06;1,35;2;Medio rischio / Intensità
+30118;Tavagnacco;2024;15,3442;14629;32;22;1,5;1,43;1,45;1;Basso rischio / Intensità
+30129;Udine;2024;57,1924;98279;501;332;3,38;5,8;1,51;2;Medio rischio / Intensità
+31007;Gorizia;2024;41,2683;33620;140;103;3,06;2,5;1,36;2;Medio rischio / Intensità
+31012;Monfalcone;2024;20,6567;30360;143;122;4,02;5,91;1,17;2;Medio rischio / Intensità
+31016;Ronchi dei Legionari;2024;17,1085;11862;34;22;1,85;1,29;1,55;1;Basso rischio / Intensità
+32003;Muggia;2024;13,9145;12708;13;11;0,87;0,79;1,18;1;Basso rischio / Intensità
+32006;Trieste;2024;85,0934;198388;1003;837;4,22;9,84;1,2;0;Alto rischio / Intensità
+33013;Castel San Giovanni;2024;44,0397;14244;62;50;3,51;1,14;1,24;2;Medio rischio / Intensità
+33021;Fiorenzuola d'Arda;2024;59,769;14887;86;55;3,69;0,92;1,56;2;Medio rischio / Intensità
+33032;Piacenza;2024;118,2281;103406;730;581;5,62;4,91;1,26;2;Medio rischio / Intensità
+33039;Rottofreno;2024;35,1736;12328;47;36;2,92;1,02;1,31;1;Basso rischio / Intensità
+34009;Collecchio;2024;58,831;14854;74;50;3,37;0,85;1,48;2;Medio rischio / Intensità
+34014;Fidenza;2024;95,1168;27408;143;100;3,65;1,05;1,43;2;Medio rischio / Intensità
+34018;Langhirano;2024;70,8424;10916;21;20;1,83;0,28;1,05;1;Basso rischio / Intensità
+34020;Medesano;2024;88,7682;10769;27;17;1,58;0,19;1,59;1;Basso rischio / Intensità
+34023;Montechiarugolo;2024;48,2016;11356;23;17;1,5;0,35;1,35;1;Basso rischio / Intensità
+34025;Noceto;2024;79,1728;13315;51;37;2,78;0,47;1,38;1;Basso rischio / Intensità
+34027;Parma;2024;260,5978;198693;955;780;3,93;2,99;1,22;2;Medio rischio / Intensità
+34032;Salsomaggiore Terme;2024;81,4988;20511;46;37;1,8;0,45;1,24;1;Basso rischio / Intensità
+34051;Sorbolo Mezzani;2024;66,9713;13036;22;17;1,3;0,25;1,29;1;Basso rischio / Intensità
+35004;Bibbiano;2024;28,1621;10219;36;23;2,25;0,82;1,57;1;Basso rischio / Intensità
+35008;Cadelbosco di Sopra;2024;43,5956;10731;38;27;2,52;0,62;1,41;1;Basso rischio / Intensità
+35012;Casalgrande;2024;37,7066;19013;71;59;3,1;1,56;1,2;2;Medio rischio / Intensità
+35014;Castellarano;2024;58,0581;15196;39;30;1,97;0,52;1,3;1;Basso rischio / Intensità
+35016;Castelnovo ne' Monti;2024;96,6802;10369;41;27;2,6;0,28;1,52;1;Basso rischio / Intensità
+35020;Correggio;2024;77,5095;25208;124;93;3,69;1,2;1,33;2;Medio rischio / Intensità
+35024;Guastalla;2024;52,9209;14600;47;38;2,6;0,72;1,24;1;Basso rischio / Intensità
+35027;Montecchio Emilia;2024;24,3868;10426;21;19;1,82;0,78;1,11;1;Basso rischio / Intensità
+35028;Novellara;2024;58,1064;13301;49;34;2,56;0,59;1,44;1;Basso rischio / Intensità
+35030;Quattro Castella;2024;46,3057;13235;41;27;2,04;0,58;1,52;1;Basso rischio / Intensità
+35033;Reggio nell'Emilia;2024;230,6804;172284;1085;839;4,87;3,64;1,29;2;Medio rischio / Intensità
+35036;Rubiera;2024;25,1943;14627;60;50;3,42;1,98;1,2;2;Medio rischio / Intensità
+35039;Sant'Ilario d'Enza;2024;20,2332;11459;29;23;2,01;1,14;1,26;1;Basso rischio / Intensità
+35040;Scandiano;2024;50,0477;25971;84;67;2,58;1,34;1,25;1;Basso rischio / Intensità
+36002;Bomporto;2024;38,8736;10285;49;36;3,5;0,93;1,36;2;Medio rischio / Intensità
+36005;Carpi;2024;131,5385;73297;478;357;4,87;2,71;1,34;2;Medio rischio / Intensità
+36006;Castelfranco Emilia;2024;102,5599;33354;109;78;2,34;0,76;1,4;1;Basso rischio / Intensità
+36007;Castelnuovo Rangone;2024;22,4404;15059;41;34;2,26;1,52;1,21;1;Basso rischio / Intensità
+36008;Castelvetro di Modena;2024;49,783;11052;63;45;4,07;0,9;1,4;2;Medio rischio / Intensità
+36012;Finale Emilia;2024;105,1255;15343;33;27;1,76;0,26;1,22;1;Basso rischio / Intensità
+36013;Fiorano Modenese;2024;26,2318;16723;87;70;4,19;2,67;1,24;2;Medio rischio / Intensità
+36015;Formigine;2024;46,7584;34464;99;71;2,06;1,52;1,39;1;Basso rischio / Intensità
+36019;Maranello;2024;32,5809;17299;75;53;3,06;1,63;1,42;2;Medio rischio / Intensità
+36022;Mirandola;2024;137,0466;24623;151;90;3,66;0,66;1,68;2;Medio rischio / Intensità
+36023;Modena;2024;183,173;184074;1288;1014;5,51;5,54;1,27;2;Medio rischio / Intensità
+36027;Nonantola;2024;55,3198;16155;54;42;2,6;0,76;1,29;1;Basso rischio / Intensità
+36028;Novi di Modena;2024;51,8102;10264;21;17;1,66;0,33;1,24;1;Basso rischio / Intensità
+36030;Pavullo nel Frignano;2024;143,7303;18360;86;65;3,54;0,45;1,32;2;Medio rischio / Intensità
+36037;San Felice sul Panaro;2024;51,6637;10864;27;22;2,03;0,43;1,23;1;Basso rischio / Intensità
+36040;Sassuolo;2024;38,4033;41116;186;149;3,62;3,88;1,25;2;Medio rischio / Intensità
+36044;Soliera;2024;50,9282;15549;42;34;2,19;0,67;1,24;1;Basso rischio / Intensità
+36045;Spilamberto;2024;29,7916;12979;90;68;5,24;2,28;1,32;2;Medio rischio / Intensità
+36046;Vignola;2024;22,8614;26170;134;100;3,82;4,37;1,34;2;Medio rischio / Intensità
+37001;Anzola dell'Emilia;2024;36,5868;12348;43;32;2,59;0,87;1,34;1;Basso rischio / Intensità
+37006;Bologna;2024;140,8561;390151;2450;1946;4,99;13,82;1,26;0;Alto rischio / Intensità
+37008;Budrio;2024;120,1845;18421;79;52;2,82;0,43;1,52;1;Basso rischio / Intensità
+37009;Calderara di Reno;2024;40,7517;13724;41;34;2,48;0,83;1,21;1;Basso rischio / Intensità
+37011;Casalecchio di Reno;2024;17,3334;35344;124;101;2,86;5,83;1,23;2;Medio rischio / Intensità
+37019;Castel Maggiore;2024;30,9007;18512;75;57;3,08;1,84;1,32;2;Medio rischio / Intensità
+37020;Castel San Pietro Terme;2024;148,4146;20613;84;55;2,67;0,37;1,53;1;Basso rischio / Intensità
+37021;Castenaso;2024;35,7332;16531;79;50;3,02;1,4;1,58;2;Medio rischio / Intensità
+37024;Crevalcore;2024;102,7525;14105;35;24;1,7;0,23;1,46;1;Basso rischio / Intensità
+37030;Granarolo dell'Emilia;2024;34,3693;13000;68;47;3,62;1,37;1,45;2;Medio rischio / Intensità
+37032;Imola;2024;205,0201;69403;415;324;4,67;1,58;1,28;2;Medio rischio / Intensità
+37037;Medicina;2024;159,1058;16812;44;30;1,78;0,19;1,47;1;Basso rischio / Intensità
+37039;Molinella;2024;127,8402;15792;32;20;1,27;0,16;1,6;1;Basso rischio / Intensità
+37042;Monte San Pietro;2024;74,6852;10827;37;24;2,22;0,32;1,54;1;Basso rischio / Intensità
+37046;Ozzano dell'Emilia;2024;64,947;14279;66;50;3,5;0,77;1,32;2;Medio rischio / Intensità
+37047;Pianoro;2024;107,129;17866;56;46;2,57;0,43;1,22;1;Basso rischio / Intensità
+37053;San Giovanni in Persiceto;2024;114,4108;28052;117;85;3,03;0,74;1,38;2;Medio rischio / Intensità
+37054;San Lazzaro di Savena;2024;44,7242;32828;209;141;4,3;3,15;1,48;2;Medio rischio / Intensità
+37055;San Pietro in Casale;2024;65,8564;12991;59;35;2,69;0,53;1,69;1;Basso rischio / Intensità
+37057;Sasso Marconi;2024;96,4489;14907;123;83;5,57;0,86;1,48;2;Medio rischio / Intensità
+37060;Zola Predosa;2024;37,7471;19466;135;88;4,52;2,33;1,53;2;Medio rischio / Intensità
+37061;Valsamoggia;2024;178,1144;32080;135;89;2,77;0,5;1,52;1;Basso rischio / Intensità
+38001;Argenta;2024;311,5436;21187;103;63;2,97;0,2;1,63;1;Basso rischio / Intensità
+38003;Bondeno;2024;174,7529;14053;46;34;2,42;0,19;1,35;1;Basso rischio / Intensità
+38004;Cento;2024;64,7415;35474;126;89;2,51;1,37;1,42;1;Basso rischio / Intensità
+38005;Codigoro;2024;169,2746;10938;44;34;3,11;0,2;1,29;2;Medio rischio / Intensità
+38006;Comacchio;2024;283,7434;21910;127;97;4,43;0,34;1,31;2;Medio rischio / Intensità
+38007;Copparo;2024;157,0042;15714;36;33;2,1;0,21;1,09;1;Basso rischio / Intensità
+38008;Ferrara;2024;405,522;129081;730;603;4,67;1,49;1,21;2;Medio rischio / Intensità
+38019;Portomaggiore;2024;126,6429;12162;37;21;1,73;0,17;1,76;1;Basso rischio / Intensità
+38028;Terre del Reno;2024;51,4436;10281;25;19;1,85;0,37;1,32;1;Basso rischio / Intensità
+39001;Alfonsine;2024;106,7901;11607;47;35;3,02;0,33;1,34;2;Medio rischio / Intensità
+39002;Bagnacavallo;2024;79,5792;16543;59;45;2,72;0,57;1,31;1;Basso rischio / Intensità
+39007;Cervia;2024;82,3397;28957;191;150;5,18;1,82;1,27;2;Medio rischio / Intensità
+39010;Faenza;2024;215,7571;58732;417;308;5,24;1,43;1,35;2;Medio rischio / Intensità
+39012;Lugo;2024;117,012;32126;152;121;3,77;1,03;1,26;2;Medio rischio / Intensità
+39013;Massa Lombarda;2024;37,2143;10856;38;29;2,67;0,78;1,31;1;Basso rischio / Intensità
+39014;Ravenna;2024;653,6748;156340;1060;813;5,2;1,24;1,3;2;Medio rischio / Intensità
+39016;Russi;2024;46,2592;12221;36;27;2,21;0,58;1,33;1;Basso rischio / Intensità
+40003;Bertinoro;2024;57,2533;11102;41;32;2,88;0,56;1,28;1;Basso rischio / Intensità
+40007;Cesena;2024;249,4613;95730;577;439;4,59;1,76;1,31;2;Medio rischio / Intensità
+40008;Cesenatico;2024;45,2471;26060;154;122;4,68;2,7;1,26;2;Medio rischio / Intensità
+40012;Forlà¬;2024;228,1968;117535;639;520;4,42;2,28;1,23;2;Medio rischio / Intensità
+40013;Forlimpopoli;2024;24,4589;13163;29;24;1,82;0,98;1,21;1;Basso rischio / Intensità
+40015;Gambettola;2024;7,7714;10874;22;19;1,75;2,44;1,16;1;Basso rischio / Intensità
+40041;San Mauro Pascoli;2024;17,3269;12386;54;43;3,47;2,48;1,26;2;Medio rischio / Intensità
+40045;Savignano sul Rubicone;2024;23,2773;18028;84;67;3,72;2,88;1,25;2;Medio rischio / Intensità
+41013;Fano;2024;120,3081;59903;358;289;4,82;2,4;1,24;2;Medio rischio / Intensità
+41029;Mondolfo;2024;24,4475;14416;99;67;4,65;2,74;1,48;2;Medio rischio / Intensità
+41044;Pesaro;2024;153,0061;95266;570;461;4,84;3,01;1,24;2;Medio rischio / Intensità
+41067;Urbino;2024;226,4901;13827;78;55;3,98;0,24;1,42;2;Medio rischio / Intensità
+41068;Vallefoglia;2024;39,5512;15019;52;38;2,53;0,96;1,37;1;Basso rischio / Intensità
+41069;Colli al Metauro;2024;46,1678;12392;39;33;2,66;0,71;1,18;1;Basso rischio / Intensità
+42002;Ancona;2024;125,126;99533;558;409;4,11;3,27;1,36;2;Medio rischio / Intensità
+42010;Castelfidardo;2024;33,4065;18418;123;72;3,91;2,16;1,71;2;Medio rischio / Intensità
+42014;Chiaravalle;2024;17,602;14175;52;33;2,33;1,87;1,58;1;Basso rischio / Intensità
+42017;Fabriano;2024;272,0792;28597;70;51;1,78;0,19;1,37;1;Basso rischio / Intensità
+42018;Falconara Marittima;2024;25,9277;25900;137;105;4,05;4,05;1,3;2;Medio rischio / Intensità
+42021;Jesi;2024;108,9032;39391;244;170;4,32;1,56;1,44;2;Medio rischio / Intensità
+42022;Loreto;2024;17,8954;13066;57;30;2,3;1,68;1,9;1;Basso rischio / Intensità
+42034;Osimo;2024;106,7377;34792;121;83;2,39;0,78;1,46;1;Basso rischio / Intensità
+42045;Senigallia;2024;117,9945;43863;282;214;4,88;1,81;1,32;2;Medio rischio / Intensità
+43013;Civitanova Marche;2024;46,1219;41889;266;207;4,94;4,49;1,29;2;Medio rischio / Intensità
+43015;Corridonia;2024;61,9643;14630;60;43;2,94;0,69;1,4;1;Basso rischio / Intensità
+43023;Macerata;2024;92,5263;40585;196;154;3,79;1,66;1,27;2;Medio rischio / Intensità
+43042;Porto Recanati;2024;17,302;12600;75;47;3,73;2,72;1,6;2;Medio rischio / Intensità
+43043;Potenza Picena;2024;48,5947;15445;85;52;3,37;1,07;1,63;2;Medio rischio / Intensità
+43044;Recanati;2024;103,4424;20599;106;61;2,96;0,59;1,74;1;Basso rischio / Intensità
+43047;San Severino Marche;2024;194,2547;11787;57;41;3,48;0,21;1,39;2;Medio rischio / Intensità
+43053;Tolentino;2024;95,1181;17557;129;87;4,96;0,91;1,48;2;Medio rischio / Intensità
+44007;Ascoli Piceno;2024;158,0203;45277;257;189;4,17;1,2;1,36;2;Medio rischio / Intensità
+44023;Grottammare;2024;18,097;15924;85;61;3,83;3,37;1,39;2;Medio rischio / Intensità
+44045;Monteprandone;2024;26,3745;13067;65;45;3,44;1,71;1,44;2;Medio rischio / Intensità
+44066;San Benedetto del Tronto;2024;25,4718;47021;347;261;5,55;10,25;1,33;0;Alto rischio / Intensità
+45001;Aulla;2024;59,9874;10838;40;27;2,49;0,45;1,48;1;Basso rischio / Intensità
+45003;Carrara;2024;71,3427;59662;346;275;4,61;3,85;1,26;2;Medio rischio / Intensità
+45010;Massa;2024;93,8248;65814;517;405;6,15;4,32;1,28;2;Medio rischio / Intensità
+45011;Montignoso;2024;16,7091;10071;46;38;3,77;2,27;1,21;2;Medio rischio / Intensità
+46001;Altopascio;2024;28,5992;16099;78;53;3,29;1,85;1,47;2;Medio rischio / Intensità
+46005;Camaiore;2024;84,6917;31832;244;205;6,44;2,42;1,19;2;Medio rischio / Intensità
+46007;Capannori;2024;156,1777;46644;233;153;3,28;0,98;1,52;2;Medio rischio / Intensità
+46017;Lucca;2024;185,7593;89002;542;402;4,52;2,16;1,35;2;Medio rischio / Intensità
+46018;Massarosa;2024;68,2456;21806;110;95;4,36;1,39;1,16;2;Medio rischio / Intensità
+46024;Pietrasanta;2024;42,2685;22743;172;139;6,11;3,29;1,24;2;Medio rischio / Intensità
+46028;Seravezza;2024;39,4677;12381;52;46;3,72;1,17;1,13;2;Medio rischio / Intensità
+46033;Viareggio;2024;32,7261;60618;478;402;6,63;12,28;1,19;0;Alto rischio / Intensità
+47002;Agliana;2024;11,6951;17946;70;53;2,95;4,53;1,32;2;Medio rischio / Intensità
+47009;Monsummano Terme;2024;32,6013;20797;55;45;2,16;1,38;1,22;1;Basso rischio / Intensità
+47010;Montale;2024;32,1173;10515;31;27;2,57;0,84;1,15;1;Basso rischio / Intensità
+47011;Montecatini-Terme;2024;17,6865;21367;84;69;3,23;3,9;1,22;2;Medio rischio / Intensità
+47012;Pescia;2024;79,1247;19290;67;52;2,7;0,66;1,29;1;Basso rischio / Intensità
+47014;Pistoia;2024;236,5022;88889;495;386;4,34;1,63;1,28;2;Medio rischio / Intensità
+47017;Quarrata;2024;45,9465;26969;71;54;2,0;1,18;1,31;1;Basso rischio / Intensità
+47020;Serravalle Pistoiese;2024;41,99;11811;82;48;4,06;1,14;1,71;2;Medio rischio / Intensità
+48001;Bagno a Ripoli;2024;74,0991;24946;221;163;6,53;2,2;1,36;2;Medio rischio / Intensità
+48002;Barberino di Mugello;2024;133,325;10939;104;75;6,86;0,56;1,39;2;Medio rischio / Intensità
+48004;Borgo San Lorenzo;2024;146,3627;18286;74;61;3,34;0,42;1,21;2;Medio rischio / Intensità
+48005;Calenzano;2024;76,8222;17994;183;127;7,06;1,65;1,44;2;Medio rischio / Intensità
+48006;Campi Bisenzio;2024;28,7407;47539;270;219;4,61;7,62;1,23;2;Medio rischio / Intensità
+48010;Castelfiorentino;2024;66,3438;17353;56;44;2,54;0,66;1,27;1;Basso rischio / Intensità
+48011;Cerreto Guidi;2024;49,3049;10663;42;27;2,53;0,55;1,56;1;Basso rischio / Intensità
+48012;Certaldo;2024;75,2749;15667;51;35;2,23;0,46;1,46;1;Basso rischio / Intensità
+48014;Empoli;2024;62,4216;49391;265;203;4,11;3,25;1,31;2;Medio rischio / Intensità
+48015;Fiesole;2024;42,1928;13809;65;50;3,62;1,19;1,3;2;Medio rischio / Intensità
+48017;Firenze;2024;102,3077;361705;2711;2291;6,33;22,39;1,18;0;Alto rischio / Intensità
+48019;Fucecchio;2024;65,1763;22847;117;82;3,59;1,26;1,43;2;Medio rischio / Intensità
+48021;Greve in Chianti;2024;169,3743;13381;40;31;2,32;0,18;1,29;1;Basso rischio / Intensità
+48022;Impruneta;2024;48,7145;14250;106;75;5,26;1,54;1,41;2;Medio rischio / Intensità
+48024;Lastra a Signa;2024;42,899;19869;124;102;5,13;2,38;1,22;2;Medio rischio / Intensità
+48028;Montelupo Fiorentino;2024;24,6576;14323;46;31;2,16;1,26;1,48;1;Basso rischio / Intensità
+48030;Montespertoli;2024;124,8817;13170;40;32;2,43;0,26;1,25;1;Basso rischio / Intensità
+48033;Pontassieve;2024;114,3984;20127;62;47;2,34;0,41;1,32;1;Basso rischio / Intensità
+48035;Reggello;2024;121,6457;16556;56;38;2,3;0,31;1,47;1;Basso rischio / Intensità
+48038;San Casciano in Val di Pesa;2024;107,8277;16313;69;50;3,07;0,46;1,38;2;Medio rischio / Intensità
+48041;Scandicci;2024;59,6923;49212;332;261;5,3;4,37;1,27;2;Medio rischio / Intensità
+48043;Sesto Fiorentino;2024;48,811;49103;315;258;5,25;5,29;1,22;2;Medio rischio / Intensità
+48044;Signa;2024;18,7991;19063;81;69;3,62;3,67;1,17;2;Medio rischio / Intensità
+48050;Vinci;2024;54,1848;14587;70;50;3,43;0,92;1,4;2;Medio rischio / Intensità
+48052;Figline e Incisa Valdarno;2024;97,9011;23193;139;93;4,01;0,95;1,49;2;Medio rischio / Intensità
+48053;Scarperia e San Piero;2024;115,8099;11952;81;52;4,35;0,45;1,56;2;Medio rischio / Intensità
+48054;Barberino Tavarnelle;2024;122,9906;11977;55;45;3,76;0,37;1,22;2;Medio rischio / Intensità
+49002;Campiglia Marittima;2024;83,2763;12301;42;32;2,6;0,38;1,31;1;Basso rischio / Intensità
+49007;Cecina;2024;42,6364;28062;177;136;4,85;3,19;1,3;2;Medio rischio / Intensità
+49008;Collesalvetti;2024;107,9895;16418;80;57;3,47;0,53;1,4;2;Medio rischio / Intensità
+49009;Livorno;2024;105,0718;153154;1234;997;6,51;9,49;1,24;0;Alto rischio / Intensità
+49012;Piombino;2024;130,7445;32367;161;125;3,86;0,96;1,29;2;Medio rischio / Intensità
+49014;Portoferraio;2024;48,2796;11779;57;47;3,99;0,97;1,21;2;Medio rischio / Intensità
+49017;Rosignano Marittimo;2024;120,8274;30095;187;120;3,99;0,99;1,56;2;Medio rischio / Intensità
+50004;Calcinaia;2024;14,8907;12855;90;65;5,06;4,37;1,38;2;Medio rischio / Intensità
+50008;Cascina;2024;78,6061;44754;269;188;4,2;2,39;1,43;2;Medio rischio / Intensità
+50009;Castelfranco di Sotto;2024;48,2476;13586;27;24;1,77;0,5;1,12;1;Basso rischio / Intensità
+50022;Montopoli in Val d'Arno;2024;30,1735;11296;56;38;3,36;1,26;1,47;2;Medio rischio / Intensità
+50026;Pisa;2024;185,1558;89422;726;566;6,33;3,06;1,28;2;Medio rischio / Intensità
+50028;Ponsacco;2024;19,8828;15642;83;56;3,58;2,82;1,48;2;Medio rischio / Intensità
+50029;Pontedera;2024;46,0346;29893;206;159;5,32;3,45;1,3;2;Medio rischio / Intensità
+50031;San Giuliano Terme;2024;91,9402;30832;162;112;3,63;1,22;1,45;2;Medio rischio / Intensità
+50032;San Miniato;2024;102,5825;27831;134;88;3,16;0,86;1,52;2;Medio rischio / Intensità
+50033;Santa Croce sull'Arno;2024;16,7885;14941;48;36;2,41;2,14;1,33;1;Basso rischio / Intensità
+50035;Santa Maria a Monte;2024;38,0351;13396;40;30;2,24;0,79;1,33;1;Basso rischio / Intensità
+50037;Vecchiano;2024;67,7196;11876;103;67;5,64;0,99;1,54;2;Medio rischio / Intensità
+50040;Casciana Terme Lari;2024;81,3978;12121;60;39;3,22;0,48;1,54;2;Medio rischio / Intensità
+51002;Arezzo;2024;384,7538;96479;430;358;3,71;0,93;1,2;2;Medio rischio / Intensità
+51004;Bibbiena;2024;86,5123;11930;35;28;2,35;0,32;1,25;1;Basso rischio / Intensità
+51012;Castiglion Fiorentino;2024;111,4255;12823;35;24;1,87;0,22;1,46;1;Basso rischio / Intensità
+51017;Cortona;2024;342,7358;20834;108;78;3,74;0,23;1,38;2;Medio rischio / Intensità
+51026;Montevarchi;2024;56,6334;24060;92;61;2,54;1,08;1,51;1;Basso rischio / Intensità
+51033;San Giovanni Valdarno;2024;21,4497;16503;55;44;2,67;2,05;1,25;1;Basso rischio / Intensità
+51034;Sansepolcro;2024;91,193;15151;60;41;2,71;0,45;1,46;1;Basso rischio / Intensità
+51039;Terranuova Bracciolini;2024;85,5312;12077;47;30;2,48;0,35;1,57;1;Basso rischio / Intensità
+52012;Colle di Val d'Elsa;2024;92,035;21605;119;85;3,93;0,92;1,4;2;Medio rischio / Intensità
+52015;Montepulciano;2024;165,5402;13032;70;47;3,61;0,28;1,49;2;Medio rischio / Intensità
+52022;Poggibonsi;2024;70,5922;28062;117;97;3,46;1,37;1,21;2;Medio rischio / Intensità
+52032;Siena;2024;118,5061;52990;289;241;4,55;2,03;1,2;2;Medio rischio / Intensità
+52033;Sinalunga;2024;78,6758;12084;45;30;2,48;0,38;1,5;1;Basso rischio / Intensità
+53009;Follonica;2024;56,1606;20174;100;78;3,87;1,39;1,28;2;Medio rischio / Intensità
+53011;Grosseto;2024;473,4591;81264;559;414;5,09;0,87;1,35;2;Medio rischio / Intensità
+53016;Monte Argentario;2024;60,4768;11696;42;32;2,74;0,53;1,31;1;Basso rischio / Intensità
+53018;Orbetello;2024;226,8751;14020;92;59;4,21;0,26;1,56;2;Medio rischio / Intensità
+54001;Assisi;2024;187,1954;27468;76;56;2,04;0,3;1,36;1;Basso rischio / Intensità
+54002;Bastia Umbra;2024;27,5988;21321;74;51;2,39;1,85;1,45;1;Basso rischio / Intensità
+54009;Castiglione del Lago;2024;205,2651;15173;55;36;2,37;0,18;1,53;1;Basso rischio / Intensità
+54013;Città  di Castello;2024;387,3122;37871;154;101;2,67;0,26;1,52;1;Basso rischio / Intensità
+54015;Corciano;2024;63,724;21623;95;68;3,14;1,07;1,4;2;Medio rischio / Intensità
+54018;Foligno;2024;264,6556;55303;313;216;3,91;0,82;1,45;2;Medio rischio / Intensità
+54023;Gualdo Tadino;2024;124,2828;14224;40;28;1,97;0,23;1,43;1;Basso rischio / Intensità
+54024;Gubbio;2024;525,7677;30308;95;69;2,28;0,13;1,38;1;Basso rischio / Intensità
+54026;Magione;2024;129,7334;14680;52;35;2,38;0,27;1,49;1;Basso rischio / Intensità
+54027;Marsciano;2024;161,5282;17931;51;29;1,62;0,18;1,76;1;Basso rischio / Intensità
+54039;Perugia;2024;449,6326;162050;672;502;3,1;1,12;1,34;2;Medio rischio / Intensità
+54044;San Giustino;2024;79,9787;11060;30;23;2,08;0,29;1,3;1;Basso rischio / Intensità
+54051;Spoleto;2024;348,1366;35983;211;142;3,95;0,41;1,49;2;Medio rischio / Intensità
+54052;Todi;2024;222,8556;15481;54;39;2,52;0,18;1,38;1;Basso rischio / Intensità
+54056;Umbertide;2024;200,8311;16232;44;29;1,79;0,14;1,52;1;Basso rischio / Intensità
+55004;Amelia;2024;132,4965;11474;33;22;1,92;0,17;1,5;1;Basso rischio / Intensità
+55022;Narni;2024;197,9832;17769;116;69;3,88;0,35;1,68;2;Medio rischio / Intensità
+55023;Orvieto;2024;281,2685;19196;104;74;3,85;0,26;1,41;2;Medio rischio / Intensità
+55032;Terni;2024;212,4261;106310;549;430;4,04;2,02;1,28;2;Medio rischio / Intensità
+56021;Civita Castellana;2024;84,221;15070;69;46;3,05;0,55;1,5;2;Medio rischio / Intensità
+56036;Montefiascone;2024;104,9301;12951;42;27;2,08;0,26;1,56;1;Basso rischio / Intensità
+56050;Tarquinia;2024;279,6282;15856;90;58;3,66;0,21;1,55;2;Medio rischio / Intensità
+56057;Vetralla;2024;113,7711;13358;52;37;2,77;0,33;1,41;1;Basso rischio / Intensità
+56059;Viterbo;2024;406,2267;66393;387;287;4,32;0,71;1,35;2;Medio rischio / Intensità
+57027;Fara in Sabina;2024;54,9624;13885;25;22;1,58;0,4;1,14;1;Basso rischio / Intensità
+57059;Rieti;2024;206,455;45083;212;155;3,44;0,75;1,37;2;Medio rischio / Intensità
+58003;Albano Laziale;2024;23,8183;39662;99;80;2,02;3,36;1,24;1;Basso rischio / Intensità
+58005;Anguillara Sabazia;2024;75,2726;19038;63;49;2,57;0,65;1,29;1;Basso rischio / Intensità
+58007;Anzio;2024;43,8596;59789;101;76;1,27;1,73;1,33;1;Basso rischio / Intensità
+58009;Ariccia;2024;18,5904;17917;68;47;2,62;2,53;1,45;1;Basso rischio / Intensità
+58011;Artena;2024;54,8063;13652;43;28;2,05;0,51;1,54;1;Basso rischio / Intensità
+58013;Bracciano;2024;143,0603;18379;62;48;2,61;0,34;1,29;1;Basso rischio / Intensità
+58015;Campagnano di Roma;2024;46,9379;10928;30;18;1,65;0,38;1,67;1;Basso rischio / Intensità
+58018;Capena;2024;29,507;10980;43;28;2,55;0,95;1,54;1;Basso rischio / Intensità
+58026;Cave;2024;17,8792;10871;15;12;1,1;0,67;1,25;1;Basso rischio / Intensità
+58029;Cerveteri;2024;134,5096;38138;70;55;1,44;0,41;1,27;1;Basso rischio / Intensità
+58032;Civitavecchia;2024;74,4949;51582;204;160;3,1;2,15;1,27;2;Medio rischio / Intensità
+58034;Colleferro;2024;26,9893;20426;68;43;2,11;1,59;1,58;1;Basso rischio / Intensità
+58036;Fiano Romano;2024;41,186;16678;69;44;2,64;1,07;1,57;1;Basso rischio / Intensità
+58038;Formello;2024;31,334;13850;17;13;0,94;0,41;1,31;1;Basso rischio / Intensità
+58039;Frascati;2024;22,4881;22867;104;72;3,15;3,2;1,44;2;Medio rischio / Intensità
+58043;Genzano di Roma;2024;17,9012;22484;72;56;2,49;3,13;1,29;1;Basso rischio / Intensità
+58046;Grottaferrata;2024;18,4007;20307;75;62;3,05;3,37;1,21;2;Medio rischio / Intensità
+58047;Guidonia Montecelio;2024;79,8452;89011;158;107;1,2;1,34;1,48;1;Basso rischio / Intensità
+58050;Lanuvio;2024;43,8039;12937;41;26;2,01;0,59;1,58;1;Basso rischio / Intensità
+58057;Marino;2024;24,1809;46424;144;102;2,2;4,22;1,41;1;Basso rischio / Intensità
+58059;Mentana;2024;24,2684;22565;47;34;1,51;1,4;1,38;1;Basso rischio / Intensità
+58060;Monte Compatri;2024;24,5552;11700;59;34;2,91;1,38;1,74;1;Basso rischio / Intensità
+58065;Monterotondo;2024;40,772;41148;83;61;1,48;1,5;1,36;1;Basso rischio / Intensità
+58072;Nettuno;2024;71,9235;48145;141;101;2,1;1,4;1,4;1;Basso rischio / Intensità
+58074;Palestrina;2024;47,0154;22092;79;42;1,9;0,89;1,88;1;Basso rischio / Intensità
+58075;Palombara Sabina;2024;75,8028;13110;10;8;0,61;0,11;1,25;1;Basso rischio / Intensità
+58079;Pomezia;2024;86,5174;64665;227;157;2,43;1,81;1,45;1;Basso rischio / Intensità
+58081;Riano;2024;25,5123;10400;29;18;1,73;0,71;1,61;1;Basso rischio / Intensità
+58082;Rignano Flaminio;2024;38,5387;10115;10;6;0,59;0,16;1,67;1;Basso rischio / Intensità
+58086;Rocca di Papa;2024;39,7158;17853;45;25;1,4;0,63;1,8;1;Basso rischio / Intensità
+58088;Rocca Priora;2024;28,2646;12030;13;9;0,75;0,32;1,44;1;Basso rischio / Intensità
+58091;Roma;2024;1288,1875;2747290;17330;13924;5,07;10,81;1,24;0;Alto rischio / Intensità
+58097;Santa Marinella;2024;49,1885;18431;88;65;3,53;1,32;1,35;2;Medio rischio / Intensità
+58104;Tivoli;2024;68,2069;55115;155;126;2,29;1,85;1,23;1;Basso rischio / Intensità
+58110;Valmontone;2024;40,9132;15620;112;59;3,78;1,44;1,9;2;Medio rischio / Intensità
+58111;Velletri;2024;118,2664;52877;264;193;3,65;1,63;1,37;2;Medio rischio / Intensità
+58114;Zagarolo;2024;28,0274;18876;66;40;2,12;1,43;1,65;1;Basso rischio / Intensità
+58115;Lariano;2024;22,4892;13275;34;23;1,73;1,02;1,48;1;Basso rischio / Intensità
+58116;Ladispoli;2024;26,1791;40794;125;87;2,13;3,32;1,44;1;Basso rischio / Intensità
+58117;Ardea;2024;72,1308;50908;189;110;2,16;1,53;1,72;1;Basso rischio / Intensità
+58118;Ciampino;2024;13,0045;38815;78;73;1,88;5,61;1,07;1;Basso rischio / Intensità
+58119;San Cesareo;2024;23,6431;16332;78;49;3,0;2,07;1,59;2;Medio rischio / Intensità
+58120;Fiumicino;2024;215,0926;82829;393;300;3,62;1,39;1,31;2;Medio rischio / Intensità
+58122;Fonte Nuova;2024;19,9273;32662;67;53;1,62;2,66;1,26;1;Basso rischio / Intensità
+59001;Aprilia;2024;178,0823;74586;492;317;4,25;1,78;1,55;2;Medio rischio / Intensità
+59005;Cisterna di Latina;2024;144,157;36177;141;98;2,71;0,68;1,44;1;Basso rischio / Intensità
+59006;Cori;2024;85,3113;10386;32;15;1,44;0,18;2,13;1;Basso rischio / Intensità
+59007;Fondi;2024;145,0776;39916;227;156;3,91;1,08;1,46;2;Medio rischio / Intensità
+59008;Formia;2024;74,4278;36807;235;164;4,46;2,2;1,43;2;Medio rischio / Intensità
+59009;Gaeta;2024;29,5578;19137;117;83;4,34;2,81;1,41;2;Medio rischio / Intensità
+59010;Itri;2024;101,1194;10488;39;34;3,24;0,34;1,15;2;Medio rischio / Intensità
+59011;Latina;2024;278,0155;127796;682;466;3,65;1,68;1,46;2;Medio rischio / Intensità
+59014;Minturno;2024;42,3073;20452;94;74;3,62;1,75;1,27;2;Medio rischio / Intensità
+59017;Pontinia;2024;112,1024;15111;56;38;2,51;0,34;1,47;1;Basso rischio / Intensità
+59019;Priverno;2024;56,9807;13698;47;30;2,19;0,53;1,57;1;Basso rischio / Intensità
+59024;Sabaudia;2024;145,8065;19322;69;44;2,28;0,3;1,57;1;Basso rischio / Intensità
+59025;San Felice Circeo;2024;32,7296;10042;35;25;2,49;0,76;1,4;1;Basso rischio / Intensità
+59028;Sezze;2024;100,4711;23698;62;42;1,77;0,42;1,48;1;Basso rischio / Intensità
+59032;Terracina;2024;136,9161;44774;257;187;4,18;1,37;1,37;2;Medio rischio / Intensità
+60003;Alatri;2024;96,9574;27518;143;74;2,69;0,76;1,93;1;Basso rischio / Intensità
+60006;Anagni;2024;112,8136;20616;140;77;3,73;0,68;1,82;2;Medio rischio / Intensità
+60019;Cassino;2024;83,4151;34903;214;137;3,93;1,64;1,56;2;Medio rischio / Intensità
+60024;Ceccano;2024;61,0387;22102;120;77;3,48;1,26;1,56;2;Medio rischio / Intensità
+60033;Ferentino;2024;80,9996;19949;111;60;3,01;0,74;1,85;2;Medio rischio / Intensità
+60035;Fiuggi;2024;32,9774;10195;32;25;2,45;0,76;1,28;1;Basso rischio / Intensità
+60038;Frosinone;2024;46,8442;43015;210;150;3,49;3,2;1,4;2;Medio rischio / Intensità
+60043;Isola del Liri;2024;15,9877;10601;18;13;1,23;0,81;1,38;1;Basso rischio / Intensità
+60044;Monte San Giovanni Campano;2024;48,7143;11900;30;17;1,43;0,35;1,76;1;Basso rischio / Intensità
+60056;Pontecorvo;2024;88,8006;12119;29;18;1,49;0,2;1,61;1;Basso rischio / Intensità
+60074;Sora;2024;72,1788;24735;106;80;3,23;1,11;1,32;2;Medio rischio / Intensità
+60085;Veroli;2024;119,6562;19511;64;42;2,15;0,35;1,52;1;Basso rischio / Intensità
+61005;Aversa;2024;8,8517;49358;135;90;1,82;10,17;1,5;0;Alto rischio / Intensità
+61013;Capodrise;2024;3,4364;10020;16;13;1,3;3,78;1,23;1;Basso rischio / Intensità
+61015;Capua;2024;48,603;17918;26;21;1,17;0,43;1,24;1;Basso rischio / Intensità
+61018;Casagiove;2024;6,3569;12839;35;27;2,1;4,25;1,3;1;Basso rischio / Intensità
+61019;Casal di Principe;2024;23,5127;21744;54;32;1,47;1,36;1,69;1;Basso rischio / Intensità
+61022;Caserta;2024;54,0689;72793;161;132;1,81;2,44;1,22;1;Basso rischio / Intensità
+61027;Castel Volturno;2024;74,8506;30731;131;74;2,41;0,99;1,77;1;Basso rischio / Intensità
+61043;Gricignano di Aversa;2024;9,9776;13060;38;22;1,68;2,2;1,73;1;Basso rischio / Intensità
+61046;Lusciano;2024;4,5573;16299;28;21;1,29;4,61;1,33;1;Basso rischio / Intensità
+61047;Macerata Campania;2024;7,6148;10053;10;8;0,8;1,05;1,25;1;Basso rischio / Intensità
+61048;Maddaloni;2024;36,6723;36696;136;78;2,13;2,13;1,74;1;Basso rischio / Intensità
+61049;Marcianise;2024;30,2352;38198;224;140;3,67;4,63;1,6;2;Medio rischio / Intensità
+61052;Mondragone;2024;56,104;28294;177;115;4,06;2,05;1,54;2;Medio rischio / Intensità
+61053;Orta di Atella;2024;10,8339;27452;29;16;0,58;1,48;1,81;1;Basso rischio / Intensità
+61054;Parete;2024;5,6084;12933;9;7;0,54;1,25;1,29;1;Basso rischio / Intensità
+61057;Piedimonte Matese;2024;41,4292;10021;30;18;1,8;0,43;1,67;1;Basso rischio / Intensità
+61074;San Cipriano d'Aversa;2024;6,1902;13406;10;8;0,6;1,29;1,25;1;Basso rischio / Intensità
+61075;San Felice a Cancello;2024;27,179;16861;29;22;1,3;0,81;1,32;1;Basso rischio / Intensità
+61077;San Marcellino;2024;4,6099;14758;15;12;0,81;2,6;1,25;1;Basso rischio / Intensità
+61078;San Nicola la Strada;2024;4,7267;21873;41;27;1,23;5,71;1,52;1;Basso rischio / Intensità
+61081;San Prisco;2024;7,7852;12097;32;21;1,74;2,7;1,52;1;Basso rischio / Intensità
+61082;Santa Maria a Vico;2024;10,835;14367;29;21;1,46;1,94;1,38;1;Basso rischio / Intensità
+61083;Santa Maria Capua Vetere;2024;15,9201;32134;69;56;1,74;3,52;1,23;1;Basso rischio / Intensità
+61087;Sant'Arpino;2024;3,2007;15326;26;17;1,11;5,31;1,53;1;Basso rischio / Intensità
+61088;Sessa Aurunca;2024;162,195;20093;46;22;1,09;0,14;2,09;1;Basso rischio / Intensità
+61091;Teano;2024;89,4301;11057;29;18;1,63;0,2;1,61;1;Basso rischio / Intensità
+61092;Teverola;2024;6,6991;15027;47;28;1,86;4,18;1,68;1;Basso rischio / Intensità
+61094;Trentola Ducenta;2024;6,6551;20741;31;19;0,92;2,85;1,63;1;Basso rischio / Intensità
+61099;Villa Literno;2024;61,8249;12846;60;30;2,34;0,49;2,0;1;Basso rischio / Intensità
+62008;Benevento;2024;130,8725;55712;171;123;2,21;0,94;1,39;1;Basso rischio / Intensità
+62043;Montesarchio;2024;26,5073;12939;18;12;0,93;0,45;1,5;1;Basso rischio / Intensità
+62070;Sant'Agata de' Goti;2024;63,3786;10096;5;3;0,3;0,05;1,67;1;Basso rischio / Intensità
+63001;Acerra;2024;54,7117;58676;121;68;1,16;1,24;1,78;1;Basso rischio / Intensità
+63002;Afragola;2024;17,9149;61786;162;115;1,86;6,42;1,41;1;Basso rischio / Intensità
+63005;Arzano;2024;4,7535;31797;55;41;1,29;8,63;1,34;1;Basso rischio / Intensità
+63006;Bacoli;2024;13,5169;24988;78;55;2,2;4,07;1,42;1;Basso rischio / Intensità
+63008;Boscoreale;2024;11,3999;25833;77;55;2,13;4,82;1,4;1;Basso rischio / Intensità
+63010;Brusciano;2024;5,6161;16034;24;18;1,12;3,21;1,33;1;Basso rischio / Intensità
+63011;Caivano;2024;27,2212;35986;117;65;1,81;2,39;1,8;1;Basso rischio / Intensità
+63012;Calvizzano;2024;3,9831;12616;7;5;0,4;1,26;1,4;1;Basso rischio / Intensità
+63016;Cardito;2024;3,1983;21484;27;21;0,98;6,57;1,29;1;Basso rischio / Intensità
+63017;Casalnuovo di Napoli;2024;7,8354;46710;53;38;0,81;4,85;1,39;1;Basso rischio / Intensità
+63020;Casandrino;2024;3,2108;12964;21;11;0,85;3,43;1,91;1;Basso rischio / Intensità
+63021;Casavatore;2024;1,6091;18207;30;24;1,32;14,92;1,25;0;Alto rischio / Intensità
+63023;Casoria;2024;12,0996;73724;199;148;2,01;12,23;1,34;0;Alto rischio / Intensità
+63024;Castellammare di Stabia;2024;17,9852;62320;155;116;1,86;6,45;1,34;1;Basso rischio / Intensità
+63026;Cercola;2024;4,2278;16793;21;16;0,95;3,78;1,31;1;Basso rischio / Intensità
+63027;Cicciano;2024;7,3311;12308;32;25;2,03;3,41;1,28;1;Basso rischio / Intensità
+63030;Crispano;2024;2,2191;11660;5;4;0,34;1,8;1,25;1;Basso rischio / Intensità
+63031;Forio;2024;13,0712;17531;61;42;2,4;3,21;1,45;1;Basso rischio / Intensità
+63032;Frattamaggiore;2024;5,3882;28558;41;30;1,05;5,57;1,37;1;Basso rischio / Intensità
+63033;Frattaminore;2024;2,0417;15344;6;5;0,33;2,45;1,2;1;Basso rischio / Intensità
+63034;Giugliano in Campania;2024;94,7069;125032;366;227;1,82;2,4;1,61;1;Basso rischio / Intensità
+63035;Gragnano;2024;14,6424;27694;83;60;2,17;4,1;1,38;1;Basso rischio / Intensità
+63036;Grumo Nevano;2024;2,8769;17063;14;11;0,64;3,82;1,27;1;Basso rischio / Intensità
+63037;Ischia;2024;8,1376;19492;50;30;1,54;3,69;1,67;1;Basso rischio / Intensità
+63041;Marano di Napoli;2024;15,6058;57619;65;51;0,89;3,27;1,27;1;Basso rischio / Intensità
+63043;Marigliano;2024;22,5752;29351;73;52;1,77;2,3;1,4;1;Basso rischio / Intensità
+63044;Massa Lubrense;2024;20,045;14186;53;45;3,17;2,24;1,18;2;Medio rischio / Intensità
+63045;Melito di Napoli;2024;3,7798;36258;26;21;0,58;5,56;1,24;1;Basso rischio / Intensità
+63047;Monte di Procida;2024;3,7043;11847;17;13;1,1;3,51;1,31;1;Basso rischio / Intensità
+63048;Mugnano di Napoli;2024;5,2446;35368;59;41;1,16;7,82;1,44;1;Basso rischio / Intensità
+63049;Napoli;2024;119,2423;909013;3297;2544;2,8;21,33;1,3;0;Alto rischio / Intensità
+63050;Nola;2024;39,1855;34111;116;73;2,14;1,86;1,59;1;Basso rischio / Intensità
+63051;Ottaviano;2024;20,0227;23271;51;32;1,38;1,6;1,59;1;Basso rischio / Intensità
+63052;Palma Campania;2024;20,6708;16356;41;23;1,41;1,11;1,78;1;Basso rischio / Intensità
+63053;Piano di Sorrento;2024;7,3471;12213;94;75;6,14;10,21;1,25;0;Alto rischio / Intensità
+63055;Poggiomarino;2024;13,2007;22618;35;25;1,11;1,89;1,4;1;Basso rischio / Intensità
+63056;Pollena Trocchia;2024;8,0156;12694;24;12;0,95;1,5;2,0;1;Basso rischio / Intensità
+63057;Pomigliano d'Arco;2024;11,7093;39784;104;71;1,78;6,06;1,46;1;Basso rischio / Intensità
+63058;Pompei;2024;12,4308;23647;145;106;4,48;8,53;1,37;0;Alto rischio / Intensità
+63059;Portici;2024;4,6361;51429;91;78;1,52;16,82;1,17;0;Alto rischio / Intensità
+63060;Pozzuoli;2024;43,8367;75375;347;233;3,09;5,32;1,49;2;Medio rischio / Intensità
+63061;Procida;2024;4,2597;10004;3;3;0,3;0,7;1,0;1;Basso rischio / Intensità
+63062;Qualiano;2024;7,4345;24780;52;34;1,37;4,57;1,53;1;Basso rischio / Intensità
+63063;Quarto;2024;14,1586;41536;76;60;1,44;4,24;1,27;1;Basso rischio / Intensità
+63064;Ercolano;2024;19,917;49505;103;79;1,6;3,97;1,3;1;Basso rischio / Intensità
+63066;San Gennaro Vesuviano;2024;7,0143;12092;18;10;0,83;1,43;1,8;1;Basso rischio / Intensità
+63067;San Giorgio a Cremano;2024;4,0748;41805;51;42;1,0;10,31;1,21;1;Basso rischio / Intensità
+63068;San Giuseppe Vesuviano;2024;14,1713;30498;53;31;1,02;2,19;1,71;1;Basso rischio / Intensità
+63072;Sant'Anastasia;2024;18,7405;26192;87;52;1,99;2,77;1,67;1;Basso rischio / Intensità
+63073;Sant'Antimo;2024;5,9134;32527;26;19;0,58;3,21;1,37;1;Basso rischio / Intensità
+63074;Sant'Antonio Abate;2024;7,9318;18931;63;40;2,11;5,04;1,58;1;Basso rischio / Intensità
+63076;Saviano;2024;13,8775;15954;35;25;1,57;1,8;1,4;1;Basso rischio / Intensità
+63079;Somma Vesuviana;2024;30,6664;33427;71;47;1,41;1,53;1,51;1;Basso rischio / Intensità
+63080;Sorrento;2024;9,9955;15152;69;54;3,56;5,4;1,28;2;Medio rischio / Intensità
+63082;Terzigno;2024;23,4648;17260;31;23;1,33;0,98;1,35;1;Basso rischio / Intensità
+63083;Torre Annunziata;2024;7,5892;39719;91;67;1,69;8,83;1,36;1;Basso rischio / Intensità
+63084;Torre del Greco;2024;30,6675;79397;195;148;1,86;4,83;1,32;1;Basso rischio / Intensità
+63086;Vico Equense;2024;29,3662;20198;78;52;2,57;1,77;1,5;1;Basso rischio / Intensità
+63087;Villaricca;2024;6,873;31434;27;20;0,64;2,91;1,35;1;Basso rischio / Intensità
+63089;Volla;2024;6,2162;25936;32;18;0,69;2,9;1,78;1;Basso rischio / Intensità
+63090;Santa Maria la Carità ;2024;3,9788;11788;28;21;1,78;5,28;1,33;1;Basso rischio / Intensità
+64005;Ariano Irpino;2024;186,7365;20741;75;56;2,7;0,3;1,34;1;Basso rischio / Intensità
+64006;Atripalda;2024;8,5679;10257;26;17;1,66;1,98;1,53;1;Basso rischio / Intensità
+64008;Avellino;2024;30,5611;51975;174;133;2,56;4,35;1,31;1;Basso rischio / Intensità
+64049;Mercogliano;2024;19,9159;11477;34;26;2,27;1,31;1,31;1;Basso rischio / Intensità
+64054;Monteforte Irpino;2024;26,9575;11412;29;15;1,31;0,56;1,93;1;Basso rischio / Intensità
+64101;Solofra;2024;22,2136;11957;27;19;1,59;0,86;1,42;1;Basso rischio / Intensità
+64121;Montoro;2024;40,141;19437;52;33;1,7;0,82;1,58;1;Basso rischio / Intensità
+65002;Agropoli;2024;32,7893;21311;82;61;2,86;1,86;1,34;1;Basso rischio / Intensità
+65007;Angri;2024;13,7655;34220;76;52;1,52;3,78;1,46;1;Basso rischio / Intensità
+65013;Baronissi;2024;17,9298;16838;56;43;2,55;2,4;1,3;1;Basso rischio / Intensità
+65014;Battipaglia;2024;56,8588;49361;238;148;3,0;2,6;1,61;2;Medio rischio / Intensità
+65022;Campagna;2024;136,3034;17001;57;31;1,82;0,23;1,84;1;Basso rischio / Intensità
+65025;Capaccio Paestum;2024;113,5471;22410;211;136;6,07;1,2;1,55;2;Medio rischio / Intensità
+65034;Castel San Giorgio;2024;13,585;13708;24;21;1,53;1,55;1,14;1;Basso rischio / Intensità
+65037;Cava de' Tirreni;2024;36,5311;49793;103;74;1,49;2,03;1,39;1;Basso rischio / Intensità
+65050;Eboli;2024;137,5826;37571;267;165;4,39;1,2;1,62;2;Medio rischio / Intensità
+65052;Fisciano;2024;31,6875;14113;37;26;1,84;0,82;1,42;1;Basso rischio / Intensità
+65056;Giffoni Valle Piana;2024;88,6124;11459;28;17;1,48;0,19;1,65;1;Basso rischio / Intensità
+65067;Mercato San Severino;2024;30,3331;21485;82;60;2,79;1,98;1,37;1;Basso rischio / Intensità
+65072;Montecorvino Pugliano;2024;28,8816;11102;48;28;2,52;0,97;1,71;1;Basso rischio / Intensità
+65073;Montecorvino Rovella;2024;42,1614;12294;21;13;1,06;0,31;1,62;1;Basso rischio / Intensità
+65078;Nocera Inferiore;2024;20,9446;43459;149;102;2,35;4,87;1,46;1;Basso rischio / Intensità
+65079;Nocera Superiore;2024;14,6625;23511;74;47;2,0;3,21;1,57;1;Basso rischio / Intensità
+65088;Pagani;2024;11,9764;35161;83;60;1,71;5,01;1,38;1;Basso rischio / Intensità
+65090;Pellezzano;2024;14,0374;10884;23;17;1,56;1,21;1,35;1;Basso rischio / Intensità
+65099;Pontecagnano Faiano;2024;37,189;26512;132;89;3,36;2,39;1,48;2;Medio rischio / Intensità
+65114;Sala Consilina;2024;59,6932;12149;85;48;3,95;0,8;1,77;2;Medio rischio / Intensità
+65116;Salerno;2024;60,1191;126000;738;543;4,31;9,03;1,36;0;Alto rischio / Intensità
+65122;San Marzano sul Sarno;2024;5,1894;10203;18;17;1,67;3,28;1,06;1;Basso rischio / Intensità
+65132;San Valentino Torio;2024;9,1563;10938;22;18;1,65;1,97;1,22;1;Basso rischio / Intensità
+65135;Sarno;2024;40,0006;30859;73;53;1,72;1,32;1,38;1;Basso rischio / Intensità
+65137;Scafati;2024;19,8701;47667;143;110;2,31;5,54;1,3;1;Basso rischio / Intensità
+65158;Bellizzi;2024;8,022;13302;55;33;2,48;4,11;1,67;1;Basso rischio / Intensità
+66006;Avezzano;2024;104,0845;40948;151;104;2,54;1,0;1,45;1;Basso rischio / Intensità
+66032;Celano;2024;82,7991;10166;25;18;1,77;0,22;1,39;1;Basso rischio / Intensità
+66049;L'Aquila;2024;473,9067;70425;290;206;2,93;0,43;1,41;1;Basso rischio / Intensità
+66098;Sulmona;2024;57,9277;21759;87;62;2,85;1,07;1,4;1;Basso rischio / Intensità
+67001;Alba Adriatica;2024;9,5364;13275;61;52;3,92;5,45;1,17;2;Medio rischio / Intensità
+67025;Giulianova;2024;28,0793;23584;163;102;4,32;3,63;1,6;2;Medio rischio / Intensità
+67035;Pineto;2024;38,1126;14803;91;47;3,18;1,23;1,94;2;Medio rischio / Intensità
+67037;Roseto degli Abruzzi;2024;53,2598;25882;79;59;2,28;1,11;1,34;1;Basso rischio / Intensità
+67040;Silvi;2024;20,5962;15482;58;48;3,1;2,33;1,21;2;Medio rischio / Intensità
+67041;Teramo;2024;152,8387;51600;206;143;2,77;0,94;1,44;1;Basso rischio / Intensità
+67044;Tortoreto;2024;23,0202;12029;58;44;3,66;1,91;1,32;2;Medio rischio / Intensità
+67047;Martinsicuro;2024;14,6267;16378;117;73;4,46;4,99;1,6;2;Medio rischio / Intensità
+68011;Cepagatti;2024;30,8177;10989;42;34;3,09;1,1;1,24;2;Medio rischio / Intensità
+68012;Città  Sant'Angelo;2024;61,9994;14902;78;59;3,96;0,95;1,32;2;Medio rischio / Intensità
+68024;Montesilvano;2024;23,6647;53602;251;198;3,69;8,37;1,27;0;Alto rischio / Intensità
+68027;Penne;2024;91,1943;11005;25;22;2,0;0,24;1,14;1;Basso rischio / Intensità
+68028;Pescara;2024;34,4163;118313;652;534;4,51;15,52;1,22;0;Alto rischio / Intensità
+68041;Spoltore;2024;37,0138;18967;92;70;3,69;1,89;1,31;2;Medio rischio / Intensità
+69005;Atessa;2024;110,9762;10264;39;28;2,73;0,25;1,39;1;Basso rischio / Intensità
+69022;Chieti;2024;59,567;48403;212;146;3,02;2,45;1,45;2;Medio rischio / Intensità
+69035;Francavilla al Mare;2024;23,1305;25568;114;84;3,29;3,63;1,36;2;Medio rischio / Intensità
+69046;Lanciano;2024;66,9603;33917;143;98;2,89;1,46;1,46;1;Basso rischio / Intensità
+69058;Ortona;2024;70,9714;21984;109;74;3,37;1,04;1,47;2;Medio rischio / Intensità
+69081;San Giovanni Teatino;2024;17,7311;14577;40;31;2,13;1,75;1,29;1;Basso rischio / Intensità
+69083;San Salvo;2024;19,6889;19890;92;56;2,82;2,84;1,64;1;Basso rischio / Intensità
+69099;Vasto;2024;71,3679;40861;182;123;3,01;1,72;1,48;2;Medio rischio / Intensità
+70006;Campobasso;2024;56,1111;47547;144;107;2,25;1,91;1,35;1;Basso rischio / Intensità
+70078;Termoli;2024;55,9425;31836;147;93;2,92;1,66;1,58;2;Medio rischio / Intensità
+71004;Apricena;2024;172,5021;12466;30;20;1,6;0,12;1,5;1;Basso rischio / Intensità
+71020;Cerignola;2024;593,9176;56900;337;177;3,11;0,3;1,9;2;Medio rischio / Intensità
+71024;Foggia;2024;509,2543;145198;882;515;3,55;1,01;1,71;2;Medio rischio / Intensità
+71028;Lucera;2024;339,7869;30591;106;66;2,16;0,19;1,61;1;Basso rischio / Intensità
+71029;Manfredonia;2024;354,795;53391;212;131;2,45;0,37;1,62;1;Basso rischio / Intensità
+71033;Monte Sant'Angelo;2024;245,1492;11006;23;13;1,18;0,05;1,77;1;Basso rischio / Intensità
+71036;Orta Nova;2024;105,2375;16597;46;27;1,63;0,26;1,7;1;Basso rischio / Intensità
+71046;San Giovanni Rotondo;2024;261,9689;26249;49;32;1,22;0,12;1,53;1;Basso rischio / Intensità
+71047;San Marco in Lamis;2024;234,1972;12313;22;10;0,81;0,04;2,2;1;Basso rischio / Intensità
+71049;San Nicandro Garganico;2024;173,3573;13485;39;18;1,33;0,1;2,17;1;Basso rischio / Intensità
+71051;San Severo;2024;336,3048;49136;267;164;3,34;0,49;1,63;2;Medio rischio / Intensità
+71056;Torremaggiore;2024;210,0083;16371;35;24;1,47;0,11;1,46;1;Basso rischio / Intensità
+71060;Vieste;2024;169,2698;13279;40;32;2,41;0,19;1,25;1;Basso rischio / Intensità
+72001;Acquaviva delle Fonti;2024;132,0244;19746;45;28;1,42;0,21;1,61;1;Basso rischio / Intensità
+72002;Adelfia;2024;29,814;16436;50;32;1,95;1,07;1,56;1;Basso rischio / Intensità
+72003;Alberobello;2024;40,823;10102;27;16;1,58;0,39;1,69;1;Basso rischio / Intensità
+72004;Altamura;2024;431,3698;70163;299;176;2,51;0,41;1,7;1;Basso rischio / Intensità
+72006;Bari;2024;117,5569;315831;2540;1777;5,63;15,12;1,43;0;Alto rischio / Intensità
+72010;Bitetto;2024;33,9452;11742;18;16;1,36;0,47;1,12;1;Basso rischio / Intensità
+72011;Bitonto;2024;174,3367;52958;219;137;2,59;0,79;1,6;1;Basso rischio / Intensità
+72012;Bitritto;2024;17,9815;11428;55;32;2,8;1,78;1,72;1;Basso rischio / Intensità
+72014;Capurso;2024;15,1051;15073;72;49;3,25;3,24;1,47;2;Medio rischio / Intensità
+72015;Casamassima;2024;78,4318;19213;110;53;2,76;0,68;2,08;1;Basso rischio / Intensità
+72016;Cassano delle Murge;2024;90,1971;15126;37;26;1,72;0,29;1,42;1;Basso rischio / Intensità
+72017;Castellana Grotte;2024;69,1287;19697;89;62;3,15;0,9;1,44;2;Medio rischio / Intensità
+72019;Conversano;2024;128,4208;25938;128;82;3,16;0,64;1,56;2;Medio rischio / Intensità
+72020;Corato;2024;169,278;46938;158;98;2,09;0,58;1,61;1;Basso rischio / Intensità
+72021;Gioia del Colle;2024;208,9351;26465;80;51;1,93;0,24;1,57;1;Basso rischio / Intensità
+72022;Giovinazzo;2024;44,2848;19156;103;64;3,34;1,45;1,61;2;Medio rischio / Intensità
+72023;Gravina in Puglia;2024;384,7183;42146;107;62;1,47;0,16;1,73;1;Basso rischio / Intensità
+72024;Grumo Appula;2024;81,3013;12075;30;18;1,49;0,22;1,67;1;Basso rischio / Intensità
+72025;Locorotondo;2024;48,1788;13859;73;42;3,03;0,87;1,74;2;Medio rischio / Intensità
+72027;Modugno;2024;32,2363;36038;171;109;3,02;3,38;1,57;2;Medio rischio / Intensità
+72028;Mola di Bari;2024;50,9421;24245;89;51;2,1;1,0;1,75;1;Basso rischio / Intensità
+72029;Molfetta;2024;59,1111;57229;282;179;3,13;3,03;1,58;2;Medio rischio / Intensità
+72030;Monopoli;2024;157,8626;47757;266;193;4,04;1,22;1,38;2;Medio rischio / Intensità
+72031;Noci;2024;150,5967;18122;51;36;1,99;0,24;1,42;1;Basso rischio / Intensità
+72032;Noicattaro;2024;40,7926;25902;116;70;2,7;1,72;1,66;1;Basso rischio / Intensità
+72033;Palo del Colle;2024;79,7123;20366;52;39;1,91;0,49;1,33;1;Basso rischio / Intensità
+72035;Polignano a Mare;2024;63,0967;17353;62;46;2,65;0,73;1,35;1;Basso rischio / Intensità
+72036;Putignano;2024;100,154;25718;97;74;2,88;0,74;1,31;1;Basso rischio / Intensità
+72037;Rutigliano;2024;53,8522;18223;79;41;2,25;0,76;1,93;1;Basso rischio / Intensità
+72038;Ruvo di Puglia;2024;223,8251;24254;72;53;2,19;0,24;1,36;1;Basso rischio / Intensità
+72041;Santeramo in Colle;2024;144,8516;25648;62;34;1,33;0,23;1,82;1;Basso rischio / Intensità
+72043;Terlizzi;2024;69,2295;25982;46;28;1,08;0,4;1,64;1;Basso rischio / Intensità
+72046;Triggiano;2024;20,1384;25764;101;66;2,56;3,28;1,53;1;Basso rischio / Intensità
+72047;Turi;2024;71,3995;12968;72;44;3,39;0,62;1,64;2;Medio rischio / Intensità
+72048;Valenzano;2024;15,9787;17220;40;26;1,51;1,63;1,54;1;Basso rischio / Intensità
+73003;Castellaneta;2024;242,389;15927;57;37;2,32;0,15;1,54;1;Basso rischio / Intensità
+73004;Crispiano;2024;112,3006;12939;20;12;0,93;0,11;1,67;1;Basso rischio / Intensità
+73007;Ginosa;2024;188,5984;21717;65;34;1,57;0,18;1,91;1;Basso rischio / Intensità
+73008;Grottaglie;2024;102,1223;30198;135;85;2,81;0,83;1,59;1;Basso rischio / Intensità
+73009;Laterza;2024;161,1732;14701;87;43;2,92;0,27;2,02;1;Basso rischio / Intensità
+73012;Manduria;2024;180,4419;29665;196;105;3,54;0,58;1,87;2;Medio rischio / Intensità
+73013;Martina Franca;2024;298,7193;46754;142;113;2,42;0,38;1,26;1;Basso rischio / Intensità
+73015;Massafra;2024;127,9938;31845;109;64;2,01;0,5;1,7;1;Basso rischio / Intensità
+73019;Mottola;2024;213,9608;15125;51;19;1,26;0,09;2,68;1;Basso rischio / Intensità
+73021;Palagiano;2024;69,9867;15701;77;39;2,48;0,56;1,97;1;Basso rischio / Intensità
+73022;Pulsano;2024;18,5281;11212;39;22;1,96;1,19;1,77;1;Basso rischio / Intensità
+73024;San Giorgio Ionico;2024;23,5597;13951;37;27;1,94;1,15;1,37;1;Basso rischio / Intensità
+73026;Sava;2024;44,5686;15166;107;59;3,89;1,32;1,81;2;Medio rischio / Intensità
+73027;Taranto;2024;249,725;186011;1347;868;4,67;3,48;1,55;2;Medio rischio / Intensità
+73029;Statte;2024;67,3201;12643;42;25;1,98;0,37;1,68;1;Basso rischio / Intensità
+74001;Brindisi;2024;333,3038;81723;528;351;4,29;1,05;1,5;2;Medio rischio / Intensità
+74002;Carovigno;2024;106,6405;17040;102;55;3,23;0,52;1,85;2;Medio rischio / Intensità
+74003;Ceglie Messapica;2024;132,0198;18502;64;47;2,54;0,36;1,36;1;Basso rischio / Intensità
+74005;Cisternino;2024;54,1686;11040;29;19;1,72;0,35;1,53;1;Basso rischio / Intensità
+74007;Fasano;2024;131,801;38863;144;98;2,52;0,74;1,47;1;Basso rischio / Intensità
+74008;Francavilla Fontana;2024;177,9372;34550;176;109;3,15;0,61;1,61;2;Medio rischio / Intensità
+74009;Latiano;2024;55,3819;13359;41;31;2,32;0,56;1,32;1;Basso rischio / Intensità
+74010;Mesagne;2024;124,0503;25921;79;59;2,28;0,48;1,34;1;Basso rischio / Intensità
+74011;Oria;2024;83,6671;14377;52;29;2,02;0,35;1,79;1;Basso rischio / Intensità
+74012;Ostuni;2024;225,5602;29943;126;89;2,97;0,39;1,42;1;Basso rischio / Intensità
+74016;San Pietro Vernotico;2024;46,974;12843;31;20;1,56;0,43;1,55;1;Basso rischio / Intensità
+74017;San Vito dei Normanni;2024;67,0762;17833;53;32;1,79;0,48;1,66;1;Basso rischio / Intensità
+74019;Torre Santa Susanna;2024;55,7649;10086;37;24;2,38;0,43;1,54;1;Basso rischio / Intensità
+75014;Carmiano;2024;24,2401;11660;26;18;1,54;0,74;1,44;1;Basso rischio / Intensità
+75016;Casarano;2024;38,7273;19093;46;31;1,62;0,8;1,48;1;Basso rischio / Intensità
+75020;Cavallino;2024;22,6543;13044;43;29;2,22;1,28;1,48;1;Basso rischio / Intensità
+75022;Copertino;2024;58,5316;22827;70;44;1,93;0,75;1,59;1;Basso rischio / Intensità
+75029;Galatina;2024;82,6465;25319;102;61;2,41;0,74;1,67;1;Basso rischio / Intensità
+75030;Galatone;2024;47,0701;14836;36;26;1,75;0,55;1,38;1;Basso rischio / Intensità
+75031;Gallipoli;2024;41,2324;18934;109;80;4,23;1,94;1,36;2;Medio rischio / Intensità
+75035;Lecce;2024;239,5758;94187;667;509;5,4;2,12;1,31;2;Medio rischio / Intensità
+75037;Leverano;2024;49,5031;13393;31;21;1,57;0,42;1,48;1;Basso rischio / Intensità
+75038;Lizzanello;2024;25,4163;11858;15;13;1,1;0,51;1,15;1;Basso rischio / Intensità
+75039;Maglie;2024;22,663;13265;47;31;2,34;1,37;1,52;1;Basso rischio / Intensità
+75042;Matino;2024;26,6287;10817;27;18;1,66;0,68;1,5;1;Basso rischio / Intensità
+75043;Melendugno;2024;92,3337;10055;58;30;2,98;0,32;1,93;1;Basso rischio / Intensità
+75048;Monteroni di Lecce;2024;16,7102;13208;34;24;1,82;1,44;1,42;1;Basso rischio / Intensità
+75052;Nardà²;2024;193,274;30752;231;135;4,39;0,7;1,71;2;Medio rischio / Intensità
+75063;Racale;2024;24,2907;10703;29;18;1,68;0,74;1,61;1;Basso rischio / Intensità
+75079;Squinzano;2024;31,1621;13320;35;28;2,1;0,9;1,25;1;Basso rischio / Intensità
+75083;Surbo;2024;20,6574;14517;59;38;2,62;1,84;1,55;1;Basso rischio / Intensità
+75084;Taurisano;2024;23,6797;11187;22;17;1,52;0,72;1,29;1;Basso rischio / Intensità
+75085;Taviano;2024;22,1319;11378;62;31;2,72;1,4;2,0;1;Basso rischio / Intensità
+75087;Trepuzzi;2024;23,7435;13727;33;25;1,82;1,05;1,32;1;Basso rischio / Intensità
+75088;Tricase;2024;43,3294;16977;44;34;2,0;0,78;1,29;1;Basso rischio / Intensità
+75090;Ugento;2024;100,4105;11891;56;40;3,36;0,4;1,4;2;Medio rischio / Intensità
+75092;Veglie;2024;62,3081;13142;50;30;2,28;0,48;1,67;1;Basso rischio / Intensità
+76007;Avigliano;2024;85,4804;10465;9;7;0,67;0,08;1,29;1;Basso rischio / Intensità
+76042;Lauria;2024;176,627;11706;53;27;2,31;0,15;1,96;1;Basso rischio / Intensità
+76043;Lavello;2024;134,6568;12859;24;11;0,86;0,08;2,18;1;Basso rischio / Intensità
+76048;Melfi;2024;206,1825;16961;55;34;2,0;0,16;1,62;1;Basso rischio / Intensità
+76063;Potenza;2024;175,4318;63864;290;194;3,04;1,11;1,49;2;Medio rischio / Intensità
+76066;Rionero in Vulture;2024;53,5194;12382;39;24;1,94;0,45;1,62;1;Basso rischio / Intensità
+76095;Venosa;2024;170,3885;10674;30;14;1,31;0,08;2,14;1;Basso rischio / Intensità
+77003;Bernalda;2024;126,2369;11906;38;21;1,76;0,17;1,81;1;Basso rischio / Intensità
+77014;Matera;2024;392,0808;59628;257;184;3,09;0,47;1,4;2;Medio rischio / Intensità
+77020;Pisticci;2024;233,9225;16600;80;42;2,53;0,18;1,9;1;Basso rischio / Intensità
+77021;Policoro;2024;67,6487;17682;110;57;3,22;0,84;1,93;2;Medio rischio / Intensità
+78003;Acri;2024;200,6272;18337;25;14;0,76;0,07;1,79;1;Basso rischio / Intensità
+78010;Amantea;2024;29,3551;13844;26;19;1,37;0,65;1,37;1;Basso rischio / Intensità
+78029;Cassano all'Ionio;2024;159,0818;16307;63;29;1,78;0,18;2,17;1;Basso rischio / Intensità
+78033;Castrovillari;2024;130,6318;20605;67;45;2,18;0,34;1,49;1;Basso rischio / Intensità
+78045;Cosenza;2024;37,8606;63240;218;159;2,51;4,2;1,37;1;Basso rischio / Intensità
+78081;Montalto Uffugo;2024;76,6698;20034;35;23;1,15;0,3;1,52;1;Basso rischio / Intensità
+78091;Paola;2024;42,9131;15069;52;31;2,06;0,72;1,68;1;Basso rischio / Intensità
+78102;Rende;2024;55,281;36781;199;127;3,45;2,3;1,57;2;Medio rischio / Intensità
+78119;San Giovanni in Fiore;2024;282,5285;15487;9;6;0,39;0,02;1,5;1;Basso rischio / Intensità
+78138;Scalea;2024;22,5441;11537;46;33;2,86;1,46;1,39;1;Basso rischio / Intensità
+78157;Corigliano-Rossano;2024;346,6165;74332;203;127;1,71;0,37;1,6;1;Basso rischio / Intensità
+79023;Catanzaro;2024;112,7825;83313;274;201;2,41;1,78;1,36;1;Basso rischio / Intensità
+79160;Lamezia Terme;2024;162,3773;67269;238;162;2,41;1,0;1,47;1;Basso rischio / Intensità
+80038;Gioia Tauro;2024;38,1055;19301;39;25;1,3;0,66;1,56;1;Basso rischio / Intensità
+80043;Locri;2024;25,7745;11870;51;31;2,61;1,2;1,65;1;Basso rischio / Intensità
+80050;Melito di Porto Salvo;2024;35,4037;10387;30;16;1,54;0,45;1,88;1;Basso rischio / Intensità
+80057;Palmi;2024;32,0527;17972;59;39;2,17;1,22;1,51;1;Basso rischio / Intensità
+80063;Reggio di Calabria;2024;238,9578;168779;524;393;2,33;1,64;1,33;1;Basso rischio / Intensità
+80069;Rosarno;2024;39,5573;14472;32;22;1,52;0,56;1,45;1;Basso rischio / Intensità
+80088;Siderno;2024;31,8883;17570;69;46;2,62;1,44;1,5;1;Basso rischio / Intensità
+80093;Taurianova;2024;48,5446;14722;28;20;1,36;0,41;1,4;1;Basso rischio / Intensità
+80096;Villa San Giovanni;2024;12,1054;12700;60;46;3,62;3,8;1,3;2;Medio rischio / Intensità
+81001;Alcamo;2024;130,8931;44597;170;112;2,51;0,86;1,52;1;Basso rischio / Intensità
+81004;Campobello di Mazara;2024;65,8349;11232;31;18;1,6;0,27;1,72;1;Basso rischio / Intensità
+81005;Castellammare del Golfo;2024;127,349;14598;43;33;2,26;0,26;1,3;1;Basso rischio / Intensità
+81006;Castelvetrano;2024;207,7014;29297;96;59;2,01;0,28;1,63;1;Basso rischio / Intensità
+81008;Erice;2024;47,3371;25770;53;33;1,28;0,7;1,61;1;Basso rischio / Intensità
+81011;Marsala;2024;243,512;79571;270;179;2,25;0,74;1,51;1;Basso rischio / Intensità
+81012;Mazara del Vallo;2024;274,7563;50011;134;92;1,84;0,33;1,46;1;Basso rischio / Intensità
+81013;Paceco;2024;58,0023;10587;32;23;2,17;0,4;1,39;1;Basso rischio / Intensità
+81021;Trapani;2024;180,6116;54949;213;170;3,09;0,94;1,25;2;Medio rischio / Intensità
+81022;Valderice;2024;52,9642;11278;16;12;1,06;0,23;1,33;1;Basso rischio / Intensità
+82006;Bagheria;2024;29,8356;53100;151;108;2,03;3,62;1,4;1;Basso rischio / Intensità
+82009;Belmonte Mezzagno;2024;29,2934;10788;7;5;0,46;0,17;1,4;1;Basso rischio / Intensità
+82020;Capaci;2024;6,1204;11369;29;18;1,58;2,94;1,61;1;Basso rischio / Intensità
+82021;Carini;2024;76,5877;40766;130;88;2,16;1,15;1,48;1;Basso rischio / Intensità
+82023;Casteldaccia;2024;33,9185;11758;16;10;0,85;0,29;1,6;1;Basso rischio / Intensità
+82027;Cefalà¹;2024;66,2827;13874;47;36;2,59;0,54;1,31;1;Basso rischio / Intensità
+82031;Cinisi;2024;33,1606;12156;55;38;3,13;1,15;1,45;2;Medio rischio / Intensità
+82034;Corleone;2024;229,4546;10231;28;14;1,37;0,06;2,0;1;Basso rischio / Intensità
+82035;Ficarazzi;2024;3,5295;12874;43;20;1,55;5,67;2,15;1;Basso rischio / Intensità
+82048;Misilmeri;2024;69,4887;29095;86;53;1,82;0,76;1,62;1;Basso rischio / Intensità
+82049;Monreale;2024;530,1799;38759;85;50;1,29;0,09;1,7;1;Basso rischio / Intensità
+82053;Palermo;2024;160,6676;628693;2598;1987;3,16;12,37;1,31;0;Alto rischio / Intensità
+82054;Partinico;2024;108,0578;30708;90;56;1,82;0,52;1,61;1;Basso rischio / Intensità
+82067;Santa Flavia;2024;14,5993;11047;20;10;0,91;0,68;2,0;1;Basso rischio / Intensità
+82070;Termini Imerese;2024;76,7619;24797;109;70;2,82;0,91;1,56;1;Basso rischio / Intensità
+82071;Terrasini;2024;19,8453;13111;30;19;1,45;0,96;1,58;1;Basso rischio / Intensità
+82073;Trabia;2024;22,1261;10728;23;14;1,3;0,63;1,64;1;Basso rischio / Intensità
+82079;Villabate;2024;3,7976;19487;45;29;1,49;7,64;1,55;1;Basso rischio / Intensità
+83005;Barcellona Pozzo di Gotto;2024;59,1442;39763;147;88;2,21;1,49;1,67;1;Basso rischio / Intensità
+83009;Capo d'Orlando;2024;14,6025;13053;66;42;3,22;2,88;1,57;2;Medio rischio / Intensità
+83041;Lipari;2024;90,1281;12766;17;14;1,1;0,16;1,21;1;Basso rischio / Intensità
+83048;Messina;2024;213,1243;217033;1055;768;3,54;3,6;1,37;2;Medio rischio / Intensità
+83049;Milazzo;2024;24,8562;29830;142;97;3,25;3,9;1,46;2;Medio rischio / Intensità
+83066;Patti;2024;50,118;12679;40;28;2,21;0,56;1,43;1;Basso rischio / Intensità
+83084;Sant'Agata di Militello;2024;34,2327;12059;34;21;1,74;0,61;1,62;1;Basso rischio / Intensità
+83097;Taormina;2024;13,135;10480;65;50;4,77;3,81;1,3;2;Medio rischio / Intensità
+84001;Agrigento;2024;243,5678;55252;229;160;2,9;0,66;1,43;1;Basso rischio / Intensità
+84011;Canicattà¬;2024;91,8597;34281;57;38;1,11;0,41;1,5;1;Basso rischio / Intensità
+84017;Favara;2024;83,6216;31315;36;22;0,7;0,26;1,64;1;Basso rischio / Intensità
+84021;Licata;2024;179,889;34173;95;60;1,76;0,33;1,58;1;Basso rischio / Intensità
+84023;Menfi;2024;113,5493;11773;39;22;1,87;0,19;1,77;1;Basso rischio / Intensità
+84027;Palma di Montechiaro;2024;77,0699;21341;51;28;1,31;0,36;1,82;1;Basso rischio / Intensità
+84028;Porto Empedocle;2024;25,3826;15529;57;36;2,32;1,42;1,58;1;Basso rischio / Intensità
+84030;Raffadali;2024;22,2993;11783;5;5;0,42;0,22;1,0;1;Basso rischio / Intensità
+84031;Ravanusa;2024;49,5006;10229;7;5;0,49;0,1;1,4;1;Basso rischio / Intensità
+84033;Ribera;2024;118,4633;17723;52;29;1,64;0,24;1,79;1;Basso rischio / Intensità
+84041;Sciacca;2024;191,7163;38576;103;69;1,79;0,36;1,49;1;Basso rischio / Intensità
+85004;Caltanissetta;2024;421,2466;58182;248;163;2,8;0,39;1,52;1;Basso rischio / Intensità
+85007;Gela;2024;279,1337;70451;509;293;4,16;1,05;1,74;2;Medio rischio / Intensità
+85009;Mazzarino;2024;295,5891;10681;2;1;0,09;0,0;2,0;1;Basso rischio / Intensità
+85013;Niscemi;2024;96,8172;24770;41;28;1,13;0,29;1,46;1;Basso rischio / Intensità
+85015;Riesi;2024;66,9951;10260;2;1;0,1;0,01;2,0;1;Basso rischio / Intensità
+85016;San Cataldo;2024;72,7745;20477;20;14;0,68;0,19;1,43;1;Basso rischio / Intensità
+86004;Barrafranca;2024;53,7119;11568;8;6;0,52;0,11;1,33;1;Basso rischio / Intensità
+86009;Enna;2024;358,7427;25102;123;70;2,79;0,2;1,76;1;Basso rischio / Intensità
+86011;Leonforte;2024;84,3928;12115;10;8;0,66;0,09;1,25;1;Basso rischio / Intensità
+86012;Nicosia;2024;218,506;12511;15;11;0,88;0,05;1,36;1;Basso rischio / Intensità
+86014;Piazza Armerina;2024;304,5375;20554;60;35;1,7;0,11;1,71;1;Basso rischio / Intensità
+87002;Aci Castello;2024;8,7542;17713;84;55;3,11;6,28;1,53;2;Medio rischio / Intensità
+87003;Aci Catena;2024;8,5078;27507;45;34;1,24;4,0;1,32;1;Basso rischio / Intensità
+87004;Acireale;2024;40,4502;50611;289;200;3,95;4,94;1,44;2;Medio rischio / Intensità
+87005;Aci Sant'Antonio;2024;14,3334;18076;74;52;2,88;3,63;1,42;2;Medio rischio / Intensità
+87006;Adrano;2024;83,2209;33667;49;28;0,83;0,34;1,75;1;Basso rischio / Intensità
+87007;Belpasso;2024;166,3266;28242;219;140;4,96;0,84;1,56;2;Medio rischio / Intensità
+87008;Biancavilla;2024;70,2752;22942;96;44;1,92;0,63;2,18;1;Basso rischio / Intensità
+87009;Bronte;2024;250,857;18218;45;20;1,1;0,08;2,25;1;Basso rischio / Intensità
+87011;Caltagirone;2024;383,3734;35475;133;88;2,48;0,23;1,51;1;Basso rischio / Intensità
+87015;Catania;2024;182,818;298054;2053;1459;4,9;7,98;1,41;0;Alto rischio / Intensità
+87017;Giarre;2024;27,3544;26557;168;106;3,99;3,88;1,58;2;Medio rischio / Intensità
+87018;Grammichele;2024;32,0662;12310;9;6;0,49;0,19;1,5;1;Basso rischio / Intensità
+87019;Gravina di Catania;2024;5,1355;25318;55;46;1,82;8,96;1,2;1;Basso rischio / Intensità
+87023;Mascali;2024;37,846;14397;94;62;4,31;1,64;1,52;2;Medio rischio / Intensità
+87024;Mascalucia;2024;16,306;32130;104;75;2,33;4,6;1,39;1;Basso rischio / Intensità
+87029;Misterbianco;2024;37,6705;48713;238;141;2,89;3,74;1,69;2;Medio rischio / Intensità
+87030;Motta Sant'Anastasia;2024;35,6999;12142;57;33;2,72;0,92;1,73;1;Basso rischio / Intensità
+87032;Palagonia;2024;57,7851;15516;44;27;1,74;0,47;1,63;1;Basso rischio / Intensità
+87033;Paternà²;2024;144,6803;44744;206;112;2,5;0,77;1,84;1;Basso rischio / Intensità
+87034;Pedara;2024;19,2393;15422;36;28;1,82;1,46;1,29;1;Basso rischio / Intensità
+87037;Ramacca;2024;306,4331;10089;22;9;0,89;0,03;2,44;1;Basso rischio / Intensità
+87038;Randazzo;2024;205,6135;10038;17;10;1,0;0,05;1,7;1;Basso rischio / Intensità
+87039;Riposto;2024;13,2561;13947;48;35;2,51;2,64;1,37;1;Basso rischio / Intensità
+87041;San Giovanni la Punta;2024;10,8497;24231;100;71;2,93;6,54;1,41;2;Medio rischio / Intensità
+87042;San Gregorio di Catania;2024;5,6193;11470;43;33;2,88;5,87;1,3;2;Medio rischio / Intensità
+87049;Scordia;2024;24,3093;15959;33;18;1,13;0,74;1,83;1;Basso rischio / Intensità
+87050;Trecastagni;2024;19,1561;11370;25;18;1,58;0,94;1,39;1;Basso rischio / Intensità
+87051;Tremestieri Etneo;2024;6,4903;19275;66;50;2,59;7,7;1,32;2;Medio rischio / Intensità
+88001;Acate;2024;102,4682;10405;19;9;0,86;0,09;2,11;1;Basso rischio / Intensità
+88003;Comiso;2024;65,4008;30214;99;64;2,12;0,98;1,55;1;Basso rischio / Intensità
+88005;Ispica;2024;113,6602;16530;63;36;2,18;0,32;1,75;1;Basso rischio / Intensità
+88006;Modica;2024;292,377;53483;191;116;2,17;0,4;1,65;1;Basso rischio / Intensità
+88008;Pozzallo;2024;15,4176;18949;52;38;2,01;2,46;1,37;1;Basso rischio / Intensità
+88009;Ragusa;2024;444,706;73878;273;185;2,5;0,42;1,48;1;Basso rischio / Intensità
+88010;Santa Croce Camerina;2024;41,0887;11405;52;35;3,07;0,85;1,49;2;Medio rischio / Intensità
+88011;Scicli;2024;138,7257;26844;78;53;1,97;0,38;1,47;1;Basso rischio / Intensità
+88012;Vittoria;2024;182,4933;65873;306;191;2,9;1,05;1,6;1;Basso rischio / Intensità
+89001;Augusta;2024;111,4896;34717;150;96;2,77;0,86;1,56;1;Basso rischio / Intensità
+89002;Avola;2024;74,5923;30710;147;103;3,35;1,38;1,43;2;Medio rischio / Intensità
+89006;Carlentini;2024;158,9118;17016;33;21;1,23;0,13;1,57;1;Basso rischio / Intensità
+89009;Floridia;2024;26,4775;21141;54;37;1,75;1,4;1,46;1;Basso rischio / Intensità
+89010;Francofonte;2024;74,2007;11541;11;8;0,69;0,11;1,38;1;Basso rischio / Intensità
+89011;Lentini;2024;216,779;21235;49;30;1,41;0,14;1,63;1;Basso rischio / Intensità
+89012;Melilli;2024;136,4816;13198;53;29;2,2;0,21;1,83;1;Basso rischio / Intensità
+89013;Noto;2024;555,2175;24612;99;66;2,68;0,12;1,5;1;Basso rischio / Intensità
+89014;Pachino;2024;50,9825;22117;61;46;2,08;0,9;1,33;1;Basso rischio / Intensità
+89016;Rosolini;2024;76,4685;20543;40;27;1,31;0,35;1,48;1;Basso rischio / Intensità
+89017;Siracusa;2024;207,8378;115776;593;444;3,83;2,14;1,34;2;Medio rischio / Intensità
+89021;Priolo Gargallo;2024;56,9533;11132;52;33;2,96;0,58;1,58;1;Basso rischio / Intensità
+90003;Alghero;2024;225,9134;41989;265;193;4,6;0,85;1,37;2;Medio rischio / Intensità
+90006;Arzachena;2024;230,9678;13435;90;65;4,84;0,28;1,38;2;Medio rischio / Intensità
+90035;La Maddalena;2024;51,7393;10488;11;9;0,86;0,17;1,22;1;Basso rischio / Intensità
+90047;Olbia;2024;384,4091;61681;387;291;4,72;0,76;1,33;2;Medio rischio / Intensità
+90058;Porto Torres;2024;104,7024;20846;54;40;1,92;0,38;1,35;1;Basso rischio / Intensità
+90064;Sassari;2024;547,0768;120510;696;520;4,31;0,95;1,34;2;Medio rischio / Intensità
+90069;Sorso;2024;67,0106;14474;28;22;1,52;0,33;1,27;1;Basso rischio / Intensità
+90070;Tempio Pausania;2024;210,8172;13036;42;26;1,99;0,12;1,62;1;Basso rischio / Intensità
+91051;Nuoro;2024;192,0589;33054;119;79;2,39;0,41;1,51;1;Basso rischio / Intensità
+91085;Siniscola;2024;196,6394;11146;42;27;2,42;0,14;1,56;1;Basso rischio / Intensità
+91095;Tortolà¬;2024;40,3651;10978;54;40;3,64;0,99;1,35;2;Medio rischio / Intensità
+92003;Assemini;2024;118,173;25630;46;39;1,52;0,33;1,18;1;Basso rischio / Intensità
+92009;Cagliari;2024;84,8236;146692;642;520;3,54;6,13;1,23;2;Medio rischio / Intensità
+92011;Capoterra;2024;68,5348;23092;41;28;1,21;0,41;1,46;1;Basso rischio / Intensità
+92051;Quartu Sant'Elena;2024;96,5263;68237;208;169;2,48;1,75;1,23;1;Basso rischio / Intensità
+92068;Selargius;2024;26,706;28377;98;62;2,18;2,32;1,58;1;Basso rischio / Intensità
+92074;Sestu;2024;48,263;20751;50;39;1,88;0,81;1,28;1;Basso rischio / Intensità
+92080;Sinnai;2024;223,9254;17360;21;17;0,98;0,08;1,24;1;Basso rischio / Intensità
+92105;Quartucciu;2024;27,9312;12828;33;26;2,03;0,93;1,27;1;Basso rischio / Intensità
+92109;Monserrato;2024;6,43;18719;41;32;1,71;4,98;1,28;1;Basso rischio / Intensità
+93005;Azzano Decimo;2024;51,3374;15769;45;32;2,03;0,62;1,41;1;Basso rischio / Intensità
+93017;Cordenons;2024;56,3377;17718;50;42;2,37;0,75;1,19;1;Basso rischio / Intensità
+93021;Fiume Veneto;2024;35,7653;11801;44;24;2,03;0,67;1,83;1;Basso rischio / Intensità
+93022;Fontanafredda;2024;46,4017;12893;46;30;2,33;0,65;1,53;1;Basso rischio / Intensità
+93025;Maniago;2024;69,4596;11498;28;20;1,74;0,29;1,4;1;Basso rischio / Intensità
+93032;Porcia;2024;29,5339;14958;71;52;3,48;1,76;1,37;2;Medio rischio / Intensità
+93033;Pordenone;2024;38,213;52314;248;191;3,65;5,0;1,3;2;Medio rischio / Intensità
+93037;Sacile;2024;32,7407;19951;62;38;1,9;1,16;1,63;1;Basso rischio / Intensità
+93041;San Vito al Tagliamento;2024;60,8716;15282;25;16;1,05;0,26;1,56;1;Basso rischio / Intensità
+93044;Spilimbergo;2024;71,8756;11773;31;23;1,95;0,32;1,35;1;Basso rischio / Intensità
+94023;Isernia;2024;69,1501;20529;64;46;2,24;0,67;1,39;1;Basso rischio / Intensità
+94052;Venafro;2024;46,3861;10719;36;29;2,71;0,63;1,24;1;Basso rischio / Intensità
+95038;Oristano;2024;84,706;30067;148;102;3,39;1,2;1,45;2;Medio rischio / Intensità
+96004;Biella;2024;46,6885;43181;222;180;4,17;3,86;1,23;2;Medio rischio / Intensità
+96020;Cossato;2024;27,7337;13868;32;29;2,09;1,05;1,1;1;Basso rischio / Intensità
+97013;Calolziocorte;2024;9,1002;13644;37;29;2,13;3,19;1,28;1;Basso rischio / Intensità
+97016;Casatenovo;2024;12,6588;13211;33;23;1,74;1,82;1,43;1;Basso rischio / Intensità
+97042;Lecco;2024;45,2832;47233;282;234;4,95;5,17;1,21;2;Medio rischio / Intensità
+97048;Merate;2024;11,0564;14954;43;37;2,47;3,35;1,16;1;Basso rischio / Intensità
+97083;Valmadrera;2024;12,4959;11269;18;14;1,24;1,12;1,29;1;Basso rischio / Intensità
+98010;Casalpusterlengo;2024;25,6088;15757;44;33;2,09;1,29;1,33;1;Basso rischio / Intensità
+98019;Codogno;2024;20,8697;15663;33;25;1,6;1,2;1,32;1;Basso rischio / Intensità
+98031;Lodi;2024;41,4211;45357;230;168;3,7;4,06;1,37;2;Medio rischio / Intensità
+98050;Sant'Angelo Lodigiano;2024;20,0412;13499;15;10;0,74;0,5;1,5;1;Basso rischio / Intensità
+99001;Bellaria-Igea Marina;2024;18,2355;19480;82;67;3,44;3,67;1,22;2;Medio rischio / Intensità
+99002;Cattolica;2024;6,2313;16601;105;87;5,24;13,96;1,21;0;Alto rischio / Intensità
+99003;Coriano;2024;46,7666;10453;49;41;3,92;0,88;1,2;2;Medio rischio / Intensità
+99005;Misano Adriatico;2024;22,3449;14213;96;77;5,42;3,45;1,25;2;Medio rischio / Intensità
+99013;Riccione;2024;17,5207;34340;270;228;6,64;13,01;1,18;0;Alto rischio / Intensità
+99014;Rimini;2024;135,8217;150333;1030;854;5,68;6,29;1,21;2;Medio rischio / Intensità
+99018;Santarcangelo di Romagna;2024;45,0584;22216;107;88;3,96;1,95;1,22;2;Medio rischio / Intensità
+99020;Verucchio;2024;27,302;10077;31;26;2,58;0,95;1,19;1;Basso rischio / Intensità
+100002;Carmignano;2024;38,4289;14540;37;35;2,41;0,91;1,06;1;Basso rischio / Intensità
+100003;Montemurlo;2024;30,6959;18992;74;64;3,37;2,08;1,16;2;Medio rischio / Intensità
+100005;Prato;2024;97,6019;197057;970;833;4,23;8,53;1,16;0;Alto rischio / Intensità
+101008;Cirà² Marina;2024;41,7534;14182;31;29;2,04;0,69;1,07;1;Basso rischio / Intensità
+101010;Crotone;2024;181,8574;58372;291;199;3,41;1,09;1,46;2;Medio rischio / Intensità
+101013;Isola di Capo Rizzuto;2024;126,6561;18392;45;19;1,03;0,15;2,37;1;Basso rischio / Intensità
+102047;Vibo Valentia;2024;46,5301;30906;102;69;2,23;1,48;1,48;1;Basso rischio / Intensità
+103028;Domodossola;2024;36,8912;17663;45;37;2,09;1,0;1,22;1;Basso rischio / Intensità
+103050;Omegna;2024;30,3724;14185;31;26;1,83;0,86;1,19;1;Basso rischio / Intensità
+103072;Verbania;2024;37,4932;29953;150;125;4,17;3,33;1,2;2;Medio rischio / Intensità
+108001;Agrate Brianza;2024;11,2176;15809;90;66;4,17;5,88;1,36;2;Medio rischio / Intensità
+108004;Arcore;2024;9,2455;17896;64;56;3,13;6,06;1,14;2;Medio rischio / Intensità
+108007;Bernareggio;2024;5,9345;11568;19;17;1,47;2,86;1,12;1;Basso rischio / Intensità
+108008;Besana in Brianza;2024;15,7574;15482;24;20;1,29;1,27;1,2;1;Basso rischio / Intensità
+108009;Biassono;2024;4,8949;12389;40;29;2,34;5,92;1,38;1;Basso rischio / Intensità
+108010;Bovisio-Masciago;2024;4,9447;16855;42;33;1,96;6,67;1,27;1;Basso rischio / Intensità
+108012;Brugherio;2024;10,4119;35367;127;93;2,63;8,93;1,37;0;Alto rischio / Intensità
+108015;Carate Brianza;2024;9,9166;17944;74;61;3,4;6,15;1,21;2;Medio rischio / Intensità
+108019;Cesano Maderno;2024;11,4892;39763;155;122;3,07;10,62;1,27;0;Alto rischio / Intensità
+108021;Concorezzo;2024;8,5081;16067;47;38;2,37;4,47;1,24;1;Basso rischio / Intensità
+108023;Desio;2024;14,7673;41662;179;145;3,48;9,82;1,23;0;Alto rischio / Intensità
+108024;Giussano;2024;10,2807;26415;145;113;4,28;10,99;1,28;0;Alto rischio / Intensità
+108027;Limbiate;2024;12,2859;35484;90;69;1,94;5,62;1,3;1;Basso rischio / Intensità
+108028;Lissone;2024;9,2957;46821;231;183;3,91;19,69;1,26;0;Alto rischio / Intensità
+108030;Meda;2024;8,3083;23608;99;77;3,26;9,27;1,29;0;Alto rischio / Intensità
+108033;Monza;2024;33,0874;123032;695;573;4,66;17,32;1,21;0;Alto rischio / Intensità
+108034;Muggià²;2024;5,4761;23487;51;43;1,83;7,85;1,19;1;Basso rischio / Intensità
+108035;Nova Milanese;2024;5,8455;23142;82;66;2,85;11,29;1,24;0;Alto rischio / Intensità
+108039;Seregno;2024;13,0462;44982;210;174;3,87;13,34;1,21;0;Alto rischio / Intensità
+108040;Seveso;2024;7,4021;23902;39;28;1,17;3,78;1,39;1;Basso rischio / Intensità
+108044;Usmate Velate;2024;9,7507;10695;36;24;2,24;2,46;1,5;1;Basso rischio / Intensità
+108045;Varedo;2024;4,848;13914;74;58;4,17;11,96;1,28;0;Alto rischio / Intensità
+108049;Villasanta;2024;4,8648;14270;48;41;2,87;8,43;1,17;0;Alto rischio / Intensità
+108050;Vimercate;2024;20,7175;26140;136;106;4,06;5,12;1,28;2;Medio rischio / Intensità
+108053;Cornate d'Adda;2024;13,8153;10976;22;14;1,28;1,01;1,57;1;Basso rischio / Intensità
+108054;Lentate sul Seveso;2024;13,9779;15990;80;53;3,31;3,79;1,51;2;Medio rischio / Intensità
+109006;Fermo;2024;124,6982;35727;200;141;3,95;1,13;1,42;2;Medio rischio / Intensità
+109018;Montegranaro;2024;31,4182;12437;21;18;1,45;0,57;1,17;1;Basso rischio / Intensità
+109033;Porto San Giorgio;2024;8,8509;15547;62;51;3,28;5,76;1,22;2;Medio rischio / Intensità
+109034;Porto Sant'Elpidio;2024;18,1489;25760;167;119;4,62;6,56;1,4;2;Medio rischio / Intensità
+109037;Sant'Elpidio a Mare;2024;50,5171;16398;65;48;2,93;0,95;1,35;1;Basso rischio / Intensità
+110001;Andria;2024;402,8825;96750;356;216;2,23;0,54;1,65;1;Basso rischio / Intensità
+110002;Barletta;2024;149,4477;92191;530;302;3,28;2,02;1,75;2;Medio rischio / Intensità
+110003;Bisceglie;2024;69,2714;53404;277;177;3,31;2,56;1,56;2;Medio rischio / Intensità
+110004;Canosa di Puglia;2024;150,9318;27507;73;44;1,6;0,29;1,66;1;Basso rischio / Intensità
+110005;Margherita di Savoia;2024;35,8948;11085;46;25;2,26;0,7;1,84;1;Basso rischio / Intensità
+110007;San Ferdinando di Puglia;2024;41,2303;13898;32;24;1,73;0,58;1,33;1;Basso rischio / Intensità
+110009;Trani;2024;103,5067;54803;258;165;3,01;1,59;1,56;2;Medio rischio / Intensità
+110010;Trinitapoli;2024;148,7656;13684;93;46;3,36;0,31;2,02;2;Medio rischio / Intensità
+111009;Carbonia;2024;145,541;25623;118;64;2,5;0,44;1,84;1;Basso rischio / Intensità
+111034;Guspini;2024;174,6685;10709;27;17;1,59;0,1;1,59;1;Basso rischio / Intensità
+111035;Iglesias;2024;208,2296;24653;75;51;2,07;0,24;1,47;1;Basso rischio / Intensità
+111071;Sant'Antioco;2024;88,0162;10490;23;12;1,14;0,14;1,92;1;Basso rischio / Intensità
+111096;Villacidro;2024;183,4761;12997;22;13;1,0;0,07;1,69;1;Basso rischio / Intensità
