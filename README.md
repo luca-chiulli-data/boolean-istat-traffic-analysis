@@ -26,6 +26,7 @@ The analysis aims to answer the following questions:
 
 ## Repository Structure
 
+```text
 boolean-istat-traffic-analysis/
 │
 ├── data/
@@ -45,8 +46,10 @@ boolean-istat-traffic-analysis/
 │   └── power_BI_screenshot.png
 │
 ├── slides/
+│
 ├── README.md
 └── .gitignore
+```
 
 
 ## Methodology
